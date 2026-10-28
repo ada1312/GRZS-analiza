@@ -30,6 +30,25 @@ python3 scripts/fetch_stats.py --start-year 2020
 Že shranjeni podatki za leta pred izbranim začetnim letom se ponovno uporabijo
 iz `data/raw/`; leta od začetnega naprej se prenesejo znova.
 
+## Analize
+
+Zvezek [notebooks/grzs_analiza.ipynb](notebooks/grzs_analiza.ipynb) v
+slovenščini in angleščini prikazuje trende intervencij, dejavnosti, vrste akcij,
+poškodbe oziroma izide, starostne kategorije in primerjavo enot. Namenjen je
+vsem, ki želijo raziskovati podatke. Analize uporabljajo lokalni
+`data/accidents.csv`; posameznih nesreč ne prikazujejo.
+Zadnje leto je lahko nepopolno, primerjava enot pa ni lestvica tveganja ali
+uspešnosti. Pred uporabo preverite metodologijo in stanje podatkov pri GRZS.
+
+Za pripravo okolja in zagon zvezka:
+
+```bash
+python3 -m pip install -r requirements-notebook.txt
+jupyter lab notebooks/grzs_analiza.ipynb
+```
+
+Po osvežitvi podatkov z `scripts/fetch_stats.py` znova zaženite vse celice.
+
 Za zagon testov:
 
 ```bash
