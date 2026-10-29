@@ -25,6 +25,31 @@ class AvailableYearsTests(unittest.TestCase):
 
 
 class NormalizeResponseTests(unittest.TestCase):
+    def test_normalizes_adult_age_name_without_changing_raw_response(self) -> None:
+        response = {
+            "value": {
+                "poskodovanecStarost": [
+                    {"enota": "BOHINJ", "otroci18do55Let": 42},
+                ],
+            },
+        }
+        records = normalize_response(2025, response)
+        self.assertEqual(records[0]["metric"], "osebe18do55Let")
+        self.assertEqual(records[0]["value"], 42)
+        self.assertIn("otroci18do55Let", response["value"]["poskodovanecStarost"][0])
+
+    def test_preserves_canonical_adult_age_name(self) -> None:
+        response = {
+            "value": {
+                "poskodovanecStarost": [
+                    {"enota": "BOHINJ", "osebe18do55Let": 42},
+                ],
+            },
+        }
+        records = normalize_response(2025, response)
+        self.assertEqual(records[0]["metric"], "osebe18do55Let")
+        self.assertEqual(records[0]["value"], 42)
+
     def test_converts_sections_to_long_records(self) -> None:
         response = {
             "value": {

@@ -80,7 +80,11 @@ def normalize_response(year: int, response: dict[str, Any]) -> list[dict[str, An
                         "year": year,
                         "section": section,
                         "unit": unit_data["enota"],
-                        "metric": metric,
+                        "metric": (
+                            "osebe18do55Let"
+                            if section == "poskodovanecStarost" and metric == "otroci18do55Let"
+                            else metric
+                        ),
                         "value": value,
                     }
                 )

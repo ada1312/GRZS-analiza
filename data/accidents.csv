@@ -592,109 +592,109 @@ year,section,unit,metric,value
 2006,dejavnost,TRŽIČ,drugo,6
 2006,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2006,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2006,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2006,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2006,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2006,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2006,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2006,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2006,poskodovanecStarost,BOHINJ,otroci10do18Let,3
-2006,poskodovanecStarost,BOHINJ,otroci18do55Let,26
+2006,poskodovanecStarost,BOHINJ,osebe18do55Let,26
 2006,poskodovanecStarost,BOHINJ,osebe55do70Let,13
 2006,poskodovanecStarost,BOHINJ,nad70Let,2
 2006,poskodovanecStarost,BOHINJ,niPodatka,0
 2006,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2006,poskodovanecStarost,BOVEC,otroci10do18Let,3
-2006,poskodovanecStarost,BOVEC,otroci18do55Let,23
+2006,poskodovanecStarost,BOVEC,osebe18do55Let,23
 2006,poskodovanecStarost,BOVEC,osebe55do70Let,2
 2006,poskodovanecStarost,BOVEC,nad70Let,0
 2006,poskodovanecStarost,BOVEC,niPodatka,0
 2006,poskodovanecStarost,CELJE,otrociPod10Let,0
 2006,poskodovanecStarost,CELJE,otroci10do18Let,0
-2006,poskodovanecStarost,CELJE,otroci18do55Let,5
+2006,poskodovanecStarost,CELJE,osebe18do55Let,5
 2006,poskodovanecStarost,CELJE,osebe55do70Let,1
 2006,poskodovanecStarost,CELJE,nad70Let,0
 2006,poskodovanecStarost,CELJE,niPodatka,1
 2006,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2006,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2006,poskodovanecStarost,JESENICE,otroci18do55Let,5
+2006,poskodovanecStarost,JESENICE,osebe18do55Let,5
 2006,poskodovanecStarost,JESENICE,osebe55do70Let,2
 2006,poskodovanecStarost,JESENICE,nad70Let,0
 2006,poskodovanecStarost,JESENICE,niPodatka,0
 2006,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2006,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2006,poskodovanecStarost,JEZERSKO,otroci18do55Let,6
+2006,poskodovanecStarost,JEZERSKO,osebe18do55Let,6
 2006,poskodovanecStarost,JEZERSKO,osebe55do70Let,2
 2006,poskodovanecStarost,JEZERSKO,nad70Let,1
 2006,poskodovanecStarost,JEZERSKO,niPodatka,0
 2006,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2006,poskodovanecStarost,KAMNIK,otroci10do18Let,1
-2006,poskodovanecStarost,KAMNIK,otroci18do55Let,27
+2006,poskodovanecStarost,KAMNIK,osebe18do55Let,27
 2006,poskodovanecStarost,KAMNIK,osebe55do70Let,5
 2006,poskodovanecStarost,KAMNIK,nad70Let,2
 2006,poskodovanecStarost,KAMNIK,niPodatka,0
 2006,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2006,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2006,poskodovanecStarost,KOROŠKE,otroci18do55Let,5
+2006,poskodovanecStarost,KOROŠKE,osebe18do55Let,5
 2006,poskodovanecStarost,KOROŠKE,osebe55do70Let,1
 2006,poskodovanecStarost,KOROŠKE,nad70Let,0
 2006,poskodovanecStarost,KOROŠKE,niPodatka,0
 2006,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2006,poskodovanecStarost,KRANJ,otroci10do18Let,2
-2006,poskodovanecStarost,KRANJ,otroci18do55Let,10
+2006,poskodovanecStarost,KRANJ,osebe18do55Let,10
 2006,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2006,poskodovanecStarost,KRANJ,nad70Let,1
 2006,poskodovanecStarost,KRANJ,niPodatka,0
 2006,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2006,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,1
-2006,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,14
+2006,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,14
 2006,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,2
 2006,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2006,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2006,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2006,poskodovanecStarost,LJUBLJANA,otroci10do18Let,1
-2006,poskodovanecStarost,LJUBLJANA,otroci18do55Let,8
+2006,poskodovanecStarost,LJUBLJANA,osebe18do55Let,8
 2006,poskodovanecStarost,LJUBLJANA,osebe55do70Let,4
 2006,poskodovanecStarost,LJUBLJANA,nad70Let,4
 2006,poskodovanecStarost,LJUBLJANA,niPodatka,0
 2006,poskodovanecStarost,MARIBOR,otrociPod10Let,6
 2006,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2006,poskodovanecStarost,MARIBOR,otroci18do55Let,3
+2006,poskodovanecStarost,MARIBOR,osebe18do55Let,3
 2006,poskodovanecStarost,MARIBOR,osebe55do70Let,4
 2006,poskodovanecStarost,MARIBOR,nad70Let,0
 2006,poskodovanecStarost,MARIBOR,niPodatka,0
 2006,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2006,poskodovanecStarost,MOJSTRANA,otroci10do18Let,1
-2006,poskodovanecStarost,MOJSTRANA,otroci18do55Let,15
+2006,poskodovanecStarost,MOJSTRANA,osebe18do55Let,15
 2006,poskodovanecStarost,MOJSTRANA,osebe55do70Let,0
 2006,poskodovanecStarost,MOJSTRANA,nad70Let,3
 2006,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2006,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2006,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2006,poskodovanecStarost,RADOVLJICA,otroci18do55Let,8
+2006,poskodovanecStarost,RADOVLJICA,osebe18do55Let,8
 2006,poskodovanecStarost,RADOVLJICA,osebe55do70Let,2
 2006,poskodovanecStarost,RADOVLJICA,nad70Let,1
 2006,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2006,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2006,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2006,poskodovanecStarost,RATEČE,otroci18do55Let,3
+2006,poskodovanecStarost,RATEČE,osebe18do55Let,3
 2006,poskodovanecStarost,RATEČE,osebe55do70Let,1
 2006,poskodovanecStarost,RATEČE,nad70Let,0
 2006,poskodovanecStarost,RATEČE,niPodatka,0
 2006,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2006,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2006,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,9
+2006,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,9
 2006,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,3
 2006,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,1
 2006,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2006,poskodovanecStarost,TOLMIN,otrociPod10Let,1
 2006,poskodovanecStarost,TOLMIN,otroci10do18Let,0
-2006,poskodovanecStarost,TOLMIN,otroci18do55Let,31
+2006,poskodovanecStarost,TOLMIN,osebe18do55Let,31
 2006,poskodovanecStarost,TOLMIN,osebe55do70Let,4
 2006,poskodovanecStarost,TOLMIN,nad70Let,7
 2006,poskodovanecStarost,TOLMIN,niPodatka,0
 2006,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2006,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2006,poskodovanecStarost,TRŽIČ,otroci18do55Let,7
+2006,poskodovanecStarost,TRŽIČ,osebe18do55Let,7
 2006,poskodovanecStarost,TRŽIČ,osebe55do70Let,4
 2006,poskodovanecStarost,TRŽIČ,nad70Let,1
 2006,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -1258,109 +1258,109 @@ year,section,unit,metric,value
 2007,dejavnost,TRŽIČ,drugo,0
 2007,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2007,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2007,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2007,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2007,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2007,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2007,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2007,poskodovanecStarost,BOHINJ,otrociPod10Let,0
 2007,poskodovanecStarost,BOHINJ,otroci10do18Let,0
-2007,poskodovanecStarost,BOHINJ,otroci18do55Let,0
+2007,poskodovanecStarost,BOHINJ,osebe18do55Let,0
 2007,poskodovanecStarost,BOHINJ,osebe55do70Let,0
 2007,poskodovanecStarost,BOHINJ,nad70Let,0
 2007,poskodovanecStarost,BOHINJ,niPodatka,0
 2007,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2007,poskodovanecStarost,BOVEC,otroci10do18Let,0
-2007,poskodovanecStarost,BOVEC,otroci18do55Let,0
+2007,poskodovanecStarost,BOVEC,osebe18do55Let,0
 2007,poskodovanecStarost,BOVEC,osebe55do70Let,0
 2007,poskodovanecStarost,BOVEC,nad70Let,0
 2007,poskodovanecStarost,BOVEC,niPodatka,0
 2007,poskodovanecStarost,CELJE,otrociPod10Let,0
 2007,poskodovanecStarost,CELJE,otroci10do18Let,0
-2007,poskodovanecStarost,CELJE,otroci18do55Let,0
+2007,poskodovanecStarost,CELJE,osebe18do55Let,0
 2007,poskodovanecStarost,CELJE,osebe55do70Let,0
 2007,poskodovanecStarost,CELJE,nad70Let,0
 2007,poskodovanecStarost,CELJE,niPodatka,1
 2007,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2007,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2007,poskodovanecStarost,JESENICE,otroci18do55Let,0
+2007,poskodovanecStarost,JESENICE,osebe18do55Let,0
 2007,poskodovanecStarost,JESENICE,osebe55do70Let,0
 2007,poskodovanecStarost,JESENICE,nad70Let,0
 2007,poskodovanecStarost,JESENICE,niPodatka,0
 2007,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2007,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2007,poskodovanecStarost,JEZERSKO,otroci18do55Let,0
+2007,poskodovanecStarost,JEZERSKO,osebe18do55Let,0
 2007,poskodovanecStarost,JEZERSKO,osebe55do70Let,0
 2007,poskodovanecStarost,JEZERSKO,nad70Let,0
 2007,poskodovanecStarost,JEZERSKO,niPodatka,0
 2007,poskodovanecStarost,KAMNIK,otrociPod10Let,3
 2007,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2007,poskodovanecStarost,KAMNIK,otroci18do55Let,0
+2007,poskodovanecStarost,KAMNIK,osebe18do55Let,0
 2007,poskodovanecStarost,KAMNIK,osebe55do70Let,0
 2007,poskodovanecStarost,KAMNIK,nad70Let,0
 2007,poskodovanecStarost,KAMNIK,niPodatka,0
 2007,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2007,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2007,poskodovanecStarost,KOROŠKE,otroci18do55Let,13
+2007,poskodovanecStarost,KOROŠKE,osebe18do55Let,13
 2007,poskodovanecStarost,KOROŠKE,osebe55do70Let,0
 2007,poskodovanecStarost,KOROŠKE,nad70Let,0
 2007,poskodovanecStarost,KOROŠKE,niPodatka,0
 2007,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2007,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2007,poskodovanecStarost,KRANJ,otroci18do55Let,0
+2007,poskodovanecStarost,KRANJ,osebe18do55Let,0
 2007,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2007,poskodovanecStarost,KRANJ,nad70Let,0
 2007,poskodovanecStarost,KRANJ,niPodatka,0
 2007,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2007,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2007,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,0
+2007,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,0
 2007,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,0
 2007,poskodovanecStarost,KRANJSKA GORA,nad70Let,0
 2007,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2007,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2007,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2007,poskodovanecStarost,LJUBLJANA,otroci18do55Let,0
+2007,poskodovanecStarost,LJUBLJANA,osebe18do55Let,0
 2007,poskodovanecStarost,LJUBLJANA,osebe55do70Let,0
 2007,poskodovanecStarost,LJUBLJANA,nad70Let,0
 2007,poskodovanecStarost,LJUBLJANA,niPodatka,0
 2007,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2007,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2007,poskodovanecStarost,MARIBOR,otroci18do55Let,0
+2007,poskodovanecStarost,MARIBOR,osebe18do55Let,0
 2007,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2007,poskodovanecStarost,MARIBOR,nad70Let,0
 2007,poskodovanecStarost,MARIBOR,niPodatka,0
 2007,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2007,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2007,poskodovanecStarost,MOJSTRANA,otroci18do55Let,0
+2007,poskodovanecStarost,MOJSTRANA,osebe18do55Let,0
 2007,poskodovanecStarost,MOJSTRANA,osebe55do70Let,0
 2007,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2007,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2007,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2007,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2007,poskodovanecStarost,RADOVLJICA,otroci18do55Let,0
+2007,poskodovanecStarost,RADOVLJICA,osebe18do55Let,0
 2007,poskodovanecStarost,RADOVLJICA,osebe55do70Let,0
 2007,poskodovanecStarost,RADOVLJICA,nad70Let,0
 2007,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2007,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2007,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2007,poskodovanecStarost,RATEČE,otroci18do55Let,1
+2007,poskodovanecStarost,RATEČE,osebe18do55Let,1
 2007,poskodovanecStarost,RATEČE,osebe55do70Let,0
 2007,poskodovanecStarost,RATEČE,nad70Let,0
 2007,poskodovanecStarost,RATEČE,niPodatka,0
 2007,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2007,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2007,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,0
+2007,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,0
 2007,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,0
 2007,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,0
 2007,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,1
 2007,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2007,poskodovanecStarost,TOLMIN,otroci10do18Let,0
-2007,poskodovanecStarost,TOLMIN,otroci18do55Let,0
+2007,poskodovanecStarost,TOLMIN,osebe18do55Let,0
 2007,poskodovanecStarost,TOLMIN,osebe55do70Let,0
 2007,poskodovanecStarost,TOLMIN,nad70Let,0
 2007,poskodovanecStarost,TOLMIN,niPodatka,0
 2007,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2007,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2007,poskodovanecStarost,TRŽIČ,otroci18do55Let,0
+2007,poskodovanecStarost,TRŽIČ,osebe18do55Let,0
 2007,poskodovanecStarost,TRŽIČ,osebe55do70Let,0
 2007,poskodovanecStarost,TRŽIČ,nad70Let,0
 2007,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -1957,109 +1957,109 @@ year,section,unit,metric,value
 2008,dejavnost,TRŽIČ,drugo,4
 2008,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2008,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2008,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2008,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2008,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2008,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2008,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2008,poskodovanecStarost,BOHINJ,otrociPod10Let,1
 2008,poskodovanecStarost,BOHINJ,otroci10do18Let,0
-2008,poskodovanecStarost,BOHINJ,otroci18do55Let,32
+2008,poskodovanecStarost,BOHINJ,osebe18do55Let,32
 2008,poskodovanecStarost,BOHINJ,osebe55do70Let,9
 2008,poskodovanecStarost,BOHINJ,nad70Let,1
 2008,poskodovanecStarost,BOHINJ,niPodatka,0
 2008,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2008,poskodovanecStarost,BOVEC,otroci10do18Let,6
-2008,poskodovanecStarost,BOVEC,otroci18do55Let,19
+2008,poskodovanecStarost,BOVEC,osebe18do55Let,19
 2008,poskodovanecStarost,BOVEC,osebe55do70Let,7
 2008,poskodovanecStarost,BOVEC,nad70Let,1
 2008,poskodovanecStarost,BOVEC,niPodatka,0
 2008,poskodovanecStarost,CELJE,otrociPod10Let,0
 2008,poskodovanecStarost,CELJE,otroci10do18Let,0
-2008,poskodovanecStarost,CELJE,otroci18do55Let,11
+2008,poskodovanecStarost,CELJE,osebe18do55Let,11
 2008,poskodovanecStarost,CELJE,osebe55do70Let,7
 2008,poskodovanecStarost,CELJE,nad70Let,0
 2008,poskodovanecStarost,CELJE,niPodatka,0
 2008,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2008,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2008,poskodovanecStarost,JESENICE,otroci18do55Let,6
+2008,poskodovanecStarost,JESENICE,osebe18do55Let,6
 2008,poskodovanecStarost,JESENICE,osebe55do70Let,0
 2008,poskodovanecStarost,JESENICE,nad70Let,0
 2008,poskodovanecStarost,JESENICE,niPodatka,0
 2008,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2008,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2008,poskodovanecStarost,JEZERSKO,otroci18do55Let,2
+2008,poskodovanecStarost,JEZERSKO,osebe18do55Let,2
 2008,poskodovanecStarost,JEZERSKO,osebe55do70Let,1
 2008,poskodovanecStarost,JEZERSKO,nad70Let,0
 2008,poskodovanecStarost,JEZERSKO,niPodatka,0
 2008,poskodovanecStarost,KAMNIK,otrociPod10Let,3
 2008,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2008,poskodovanecStarost,KAMNIK,otroci18do55Let,10
+2008,poskodovanecStarost,KAMNIK,osebe18do55Let,10
 2008,poskodovanecStarost,KAMNIK,osebe55do70Let,3
 2008,poskodovanecStarost,KAMNIK,nad70Let,1
 2008,poskodovanecStarost,KAMNIK,niPodatka,0
 2008,poskodovanecStarost,KOROŠKE,otrociPod10Let,1
 2008,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2008,poskodovanecStarost,KOROŠKE,otroci18do55Let,3
+2008,poskodovanecStarost,KOROŠKE,osebe18do55Let,3
 2008,poskodovanecStarost,KOROŠKE,osebe55do70Let,1
 2008,poskodovanecStarost,KOROŠKE,nad70Let,1
 2008,poskodovanecStarost,KOROŠKE,niPodatka,0
 2008,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2008,poskodovanecStarost,KRANJ,otroci10do18Let,1
-2008,poskodovanecStarost,KRANJ,otroci18do55Let,3
+2008,poskodovanecStarost,KRANJ,osebe18do55Let,3
 2008,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2008,poskodovanecStarost,KRANJ,nad70Let,1
 2008,poskodovanecStarost,KRANJ,niPodatka,0
 2008,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2008,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,2
-2008,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,15
+2008,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,15
 2008,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,5
 2008,poskodovanecStarost,KRANJSKA GORA,nad70Let,0
 2008,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2008,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2008,poskodovanecStarost,LJUBLJANA,otroci10do18Let,2
-2008,poskodovanecStarost,LJUBLJANA,otroci18do55Let,7
+2008,poskodovanecStarost,LJUBLJANA,osebe18do55Let,7
 2008,poskodovanecStarost,LJUBLJANA,osebe55do70Let,3
 2008,poskodovanecStarost,LJUBLJANA,nad70Let,0
 2008,poskodovanecStarost,LJUBLJANA,niPodatka,0
 2008,poskodovanecStarost,MARIBOR,otrociPod10Let,1
 2008,poskodovanecStarost,MARIBOR,otroci10do18Let,1
-2008,poskodovanecStarost,MARIBOR,otroci18do55Let,5
+2008,poskodovanecStarost,MARIBOR,osebe18do55Let,5
 2008,poskodovanecStarost,MARIBOR,osebe55do70Let,3
 2008,poskodovanecStarost,MARIBOR,nad70Let,0
 2008,poskodovanecStarost,MARIBOR,niPodatka,0
 2008,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2008,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2008,poskodovanecStarost,MOJSTRANA,otroci18do55Let,20
+2008,poskodovanecStarost,MOJSTRANA,osebe18do55Let,20
 2008,poskodovanecStarost,MOJSTRANA,osebe55do70Let,3
 2008,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2008,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2008,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2008,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2008,poskodovanecStarost,RADOVLJICA,otroci18do55Let,3
+2008,poskodovanecStarost,RADOVLJICA,osebe18do55Let,3
 2008,poskodovanecStarost,RADOVLJICA,osebe55do70Let,2
 2008,poskodovanecStarost,RADOVLJICA,nad70Let,1
 2008,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2008,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2008,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2008,poskodovanecStarost,RATEČE,otroci18do55Let,2
+2008,poskodovanecStarost,RATEČE,osebe18do55Let,2
 2008,poskodovanecStarost,RATEČE,osebe55do70Let,1
 2008,poskodovanecStarost,RATEČE,nad70Let,0
 2008,poskodovanecStarost,RATEČE,niPodatka,0
 2008,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2008,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,2
-2008,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,0
+2008,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,0
 2008,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,2
 2008,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,1
 2008,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2008,poskodovanecStarost,TOLMIN,otrociPod10Let,1
 2008,poskodovanecStarost,TOLMIN,otroci10do18Let,2
-2008,poskodovanecStarost,TOLMIN,otroci18do55Let,43
+2008,poskodovanecStarost,TOLMIN,osebe18do55Let,43
 2008,poskodovanecStarost,TOLMIN,osebe55do70Let,9
 2008,poskodovanecStarost,TOLMIN,nad70Let,6
 2008,poskodovanecStarost,TOLMIN,niPodatka,0
 2008,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2008,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2008,poskodovanecStarost,TRŽIČ,otroci18do55Let,8
+2008,poskodovanecStarost,TRŽIČ,osebe18do55Let,8
 2008,poskodovanecStarost,TRŽIČ,osebe55do70Let,3
 2008,poskodovanecStarost,TRŽIČ,nad70Let,2
 2008,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -2656,109 +2656,109 @@ year,section,unit,metric,value
 2009,dejavnost,TRŽIČ,drugo,1
 2009,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2009,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2009,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2009,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2009,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2009,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2009,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2009,poskodovanecStarost,BOHINJ,otrociPod10Let,3
 2009,poskodovanecStarost,BOHINJ,otroci10do18Let,5
-2009,poskodovanecStarost,BOHINJ,otroci18do55Let,41
+2009,poskodovanecStarost,BOHINJ,osebe18do55Let,41
 2009,poskodovanecStarost,BOHINJ,osebe55do70Let,9
 2009,poskodovanecStarost,BOHINJ,nad70Let,11
 2009,poskodovanecStarost,BOHINJ,niPodatka,0
 2009,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2009,poskodovanecStarost,BOVEC,otroci10do18Let,0
-2009,poskodovanecStarost,BOVEC,otroci18do55Let,27
+2009,poskodovanecStarost,BOVEC,osebe18do55Let,27
 2009,poskodovanecStarost,BOVEC,osebe55do70Let,9
 2009,poskodovanecStarost,BOVEC,nad70Let,4
 2009,poskodovanecStarost,BOVEC,niPodatka,0
 2009,poskodovanecStarost,CELJE,otrociPod10Let,0
 2009,poskodovanecStarost,CELJE,otroci10do18Let,2
-2009,poskodovanecStarost,CELJE,otroci18do55Let,15
+2009,poskodovanecStarost,CELJE,osebe18do55Let,15
 2009,poskodovanecStarost,CELJE,osebe55do70Let,6
 2009,poskodovanecStarost,CELJE,nad70Let,2
 2009,poskodovanecStarost,CELJE,niPodatka,0
 2009,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2009,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2009,poskodovanecStarost,JESENICE,otroci18do55Let,8
+2009,poskodovanecStarost,JESENICE,osebe18do55Let,8
 2009,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2009,poskodovanecStarost,JESENICE,nad70Let,1
 2009,poskodovanecStarost,JESENICE,niPodatka,0
 2009,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2009,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2009,poskodovanecStarost,JEZERSKO,otroci18do55Let,6
+2009,poskodovanecStarost,JEZERSKO,osebe18do55Let,6
 2009,poskodovanecStarost,JEZERSKO,osebe55do70Let,7
 2009,poskodovanecStarost,JEZERSKO,nad70Let,0
 2009,poskodovanecStarost,JEZERSKO,niPodatka,0
 2009,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2009,poskodovanecStarost,KAMNIK,otroci10do18Let,1
-2009,poskodovanecStarost,KAMNIK,otroci18do55Let,17
+2009,poskodovanecStarost,KAMNIK,osebe18do55Let,17
 2009,poskodovanecStarost,KAMNIK,osebe55do70Let,6
 2009,poskodovanecStarost,KAMNIK,nad70Let,1
 2009,poskodovanecStarost,KAMNIK,niPodatka,0
 2009,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2009,poskodovanecStarost,KOROŠKE,otroci10do18Let,1
-2009,poskodovanecStarost,KOROŠKE,otroci18do55Let,7
+2009,poskodovanecStarost,KOROŠKE,osebe18do55Let,7
 2009,poskodovanecStarost,KOROŠKE,osebe55do70Let,5
 2009,poskodovanecStarost,KOROŠKE,nad70Let,2
 2009,poskodovanecStarost,KOROŠKE,niPodatka,0
 2009,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2009,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2009,poskodovanecStarost,KRANJ,otroci18do55Let,6
+2009,poskodovanecStarost,KRANJ,osebe18do55Let,6
 2009,poskodovanecStarost,KRANJ,osebe55do70Let,4
 2009,poskodovanecStarost,KRANJ,nad70Let,0
 2009,poskodovanecStarost,KRANJ,niPodatka,0
 2009,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,1
 2009,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,1
-2009,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,8
+2009,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,8
 2009,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,5
 2009,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2009,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2009,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2009,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2009,poskodovanecStarost,LJUBLJANA,otroci18do55Let,17
+2009,poskodovanecStarost,LJUBLJANA,osebe18do55Let,17
 2009,poskodovanecStarost,LJUBLJANA,osebe55do70Let,5
 2009,poskodovanecStarost,LJUBLJANA,nad70Let,5
 2009,poskodovanecStarost,LJUBLJANA,niPodatka,0
 2009,poskodovanecStarost,MARIBOR,otrociPod10Let,2
 2009,poskodovanecStarost,MARIBOR,otroci10do18Let,13
-2009,poskodovanecStarost,MARIBOR,otroci18do55Let,26
+2009,poskodovanecStarost,MARIBOR,osebe18do55Let,26
 2009,poskodovanecStarost,MARIBOR,osebe55do70Let,6
 2009,poskodovanecStarost,MARIBOR,nad70Let,1
 2009,poskodovanecStarost,MARIBOR,niPodatka,0
 2009,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2009,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2009,poskodovanecStarost,MOJSTRANA,otroci18do55Let,20
+2009,poskodovanecStarost,MOJSTRANA,osebe18do55Let,20
 2009,poskodovanecStarost,MOJSTRANA,osebe55do70Let,8
 2009,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2009,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2009,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2009,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2009,poskodovanecStarost,RADOVLJICA,otroci18do55Let,6
+2009,poskodovanecStarost,RADOVLJICA,osebe18do55Let,6
 2009,poskodovanecStarost,RADOVLJICA,osebe55do70Let,5
 2009,poskodovanecStarost,RADOVLJICA,nad70Let,3
 2009,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2009,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2009,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2009,poskodovanecStarost,RATEČE,otroci18do55Let,8
+2009,poskodovanecStarost,RATEČE,osebe18do55Let,8
 2009,poskodovanecStarost,RATEČE,osebe55do70Let,3
 2009,poskodovanecStarost,RATEČE,nad70Let,1
 2009,poskodovanecStarost,RATEČE,niPodatka,0
 2009,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2009,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2009,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,13
+2009,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,13
 2009,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,5
 2009,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,4
 2009,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2009,poskodovanecStarost,TOLMIN,otrociPod10Let,6
 2009,poskodovanecStarost,TOLMIN,otroci10do18Let,5
-2009,poskodovanecStarost,TOLMIN,otroci18do55Let,53
+2009,poskodovanecStarost,TOLMIN,osebe18do55Let,53
 2009,poskodovanecStarost,TOLMIN,osebe55do70Let,7
 2009,poskodovanecStarost,TOLMIN,nad70Let,4
 2009,poskodovanecStarost,TOLMIN,niPodatka,0
 2009,poskodovanecStarost,TRŽIČ,otrociPod10Let,1
 2009,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2009,poskodovanecStarost,TRŽIČ,otroci18do55Let,9
+2009,poskodovanecStarost,TRŽIČ,osebe18do55Let,9
 2009,poskodovanecStarost,TRŽIČ,osebe55do70Let,6
 2009,poskodovanecStarost,TRŽIČ,nad70Let,0
 2009,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -3355,109 +3355,109 @@ year,section,unit,metric,value
 2010,dejavnost,TRŽIČ,drugo,0
 2010,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2010,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2010,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2010,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2010,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2010,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2010,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2010,poskodovanecStarost,BOHINJ,otrociPod10Let,1
 2010,poskodovanecStarost,BOHINJ,otroci10do18Let,3
-2010,poskodovanecStarost,BOHINJ,otroci18do55Let,29
+2010,poskodovanecStarost,BOHINJ,osebe18do55Let,29
 2010,poskodovanecStarost,BOHINJ,osebe55do70Let,10
 2010,poskodovanecStarost,BOHINJ,nad70Let,2
 2010,poskodovanecStarost,BOHINJ,niPodatka,2
 2010,poskodovanecStarost,BOVEC,otrociPod10Let,4
 2010,poskodovanecStarost,BOVEC,otroci10do18Let,0
-2010,poskodovanecStarost,BOVEC,otroci18do55Let,30
+2010,poskodovanecStarost,BOVEC,osebe18do55Let,30
 2010,poskodovanecStarost,BOVEC,osebe55do70Let,7
 2010,poskodovanecStarost,BOVEC,nad70Let,1
 2010,poskodovanecStarost,BOVEC,niPodatka,3
 2010,poskodovanecStarost,CELJE,otrociPod10Let,0
 2010,poskodovanecStarost,CELJE,otroci10do18Let,0
-2010,poskodovanecStarost,CELJE,otroci18do55Let,8
+2010,poskodovanecStarost,CELJE,osebe18do55Let,8
 2010,poskodovanecStarost,CELJE,osebe55do70Let,4
 2010,poskodovanecStarost,CELJE,nad70Let,1
 2010,poskodovanecStarost,CELJE,niPodatka,0
 2010,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2010,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2010,poskodovanecStarost,JESENICE,otroci18do55Let,0
+2010,poskodovanecStarost,JESENICE,osebe18do55Let,0
 2010,poskodovanecStarost,JESENICE,osebe55do70Let,2
 2010,poskodovanecStarost,JESENICE,nad70Let,1
 2010,poskodovanecStarost,JESENICE,niPodatka,0
 2010,poskodovanecStarost,JEZERSKO,otrociPod10Let,1
 2010,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2010,poskodovanecStarost,JEZERSKO,otroci18do55Let,7
+2010,poskodovanecStarost,JEZERSKO,osebe18do55Let,7
 2010,poskodovanecStarost,JEZERSKO,osebe55do70Let,1
 2010,poskodovanecStarost,JEZERSKO,nad70Let,0
 2010,poskodovanecStarost,JEZERSKO,niPodatka,1
 2010,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2010,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2010,poskodovanecStarost,KAMNIK,otroci18do55Let,13
+2010,poskodovanecStarost,KAMNIK,osebe18do55Let,13
 2010,poskodovanecStarost,KAMNIK,osebe55do70Let,3
 2010,poskodovanecStarost,KAMNIK,nad70Let,5
 2010,poskodovanecStarost,KAMNIK,niPodatka,0
 2010,poskodovanecStarost,KOROŠKE,otrociPod10Let,1
 2010,poskodovanecStarost,KOROŠKE,otroci10do18Let,3
-2010,poskodovanecStarost,KOROŠKE,otroci18do55Let,8
+2010,poskodovanecStarost,KOROŠKE,osebe18do55Let,8
 2010,poskodovanecStarost,KOROŠKE,osebe55do70Let,2
 2010,poskodovanecStarost,KOROŠKE,nad70Let,1
 2010,poskodovanecStarost,KOROŠKE,niPodatka,1
 2010,poskodovanecStarost,KRANJ,otrociPod10Let,1
 2010,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2010,poskodovanecStarost,KRANJ,otroci18do55Let,3
+2010,poskodovanecStarost,KRANJ,osebe18do55Let,3
 2010,poskodovanecStarost,KRANJ,osebe55do70Let,2
 2010,poskodovanecStarost,KRANJ,nad70Let,0
 2010,poskodovanecStarost,KRANJ,niPodatka,2
 2010,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,1
 2010,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2010,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,21
+2010,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,21
 2010,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,3
 2010,poskodovanecStarost,KRANJSKA GORA,nad70Let,3
 2010,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2010,poskodovanecStarost,LJUBLJANA,otrociPod10Let,3
 2010,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2010,poskodovanecStarost,LJUBLJANA,otroci18do55Let,10
+2010,poskodovanecStarost,LJUBLJANA,osebe18do55Let,10
 2010,poskodovanecStarost,LJUBLJANA,osebe55do70Let,5
 2010,poskodovanecStarost,LJUBLJANA,nad70Let,2
 2010,poskodovanecStarost,LJUBLJANA,niPodatka,1
 2010,poskodovanecStarost,MARIBOR,otrociPod10Let,1
 2010,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2010,poskodovanecStarost,MARIBOR,otroci18do55Let,2
+2010,poskodovanecStarost,MARIBOR,osebe18do55Let,2
 2010,poskodovanecStarost,MARIBOR,osebe55do70Let,3
 2010,poskodovanecStarost,MARIBOR,nad70Let,0
 2010,poskodovanecStarost,MARIBOR,niPodatka,0
 2010,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2010,poskodovanecStarost,MOJSTRANA,otroci10do18Let,3
-2010,poskodovanecStarost,MOJSTRANA,otroci18do55Let,17
+2010,poskodovanecStarost,MOJSTRANA,osebe18do55Let,17
 2010,poskodovanecStarost,MOJSTRANA,osebe55do70Let,6
 2010,poskodovanecStarost,MOJSTRANA,nad70Let,2
 2010,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2010,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2010,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2010,poskodovanecStarost,RADOVLJICA,otroci18do55Let,5
+2010,poskodovanecStarost,RADOVLJICA,osebe18do55Let,5
 2010,poskodovanecStarost,RADOVLJICA,osebe55do70Let,7
 2010,poskodovanecStarost,RADOVLJICA,nad70Let,1
 2010,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2010,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2010,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2010,poskodovanecStarost,RATEČE,otroci18do55Let,4
+2010,poskodovanecStarost,RATEČE,osebe18do55Let,4
 2010,poskodovanecStarost,RATEČE,osebe55do70Let,0
 2010,poskodovanecStarost,RATEČE,nad70Let,0
 2010,poskodovanecStarost,RATEČE,niPodatka,0
 2010,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,2
 2010,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2010,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,6
+2010,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,6
 2010,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,6
 2010,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,2
 2010,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2010,poskodovanecStarost,TOLMIN,otrociPod10Let,1
 2010,poskodovanecStarost,TOLMIN,otroci10do18Let,4
-2010,poskodovanecStarost,TOLMIN,otroci18do55Let,60
+2010,poskodovanecStarost,TOLMIN,osebe18do55Let,60
 2010,poskodovanecStarost,TOLMIN,osebe55do70Let,17
 2010,poskodovanecStarost,TOLMIN,nad70Let,5
 2010,poskodovanecStarost,TOLMIN,niPodatka,0
 2010,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2010,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2010,poskodovanecStarost,TRŽIČ,otroci18do55Let,10
+2010,poskodovanecStarost,TRŽIČ,osebe18do55Let,10
 2010,poskodovanecStarost,TRŽIČ,osebe55do70Let,2
 2010,poskodovanecStarost,TRŽIČ,nad70Let,2
 2010,poskodovanecStarost,TRŽIČ,niPodatka,4
@@ -4054,109 +4054,109 @@ year,section,unit,metric,value
 2011,dejavnost,TRŽIČ,drugo,6
 2011,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2011,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2011,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2011,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2011,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2011,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2011,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2011,poskodovanecStarost,BOHINJ,otrociPod10Let,3
 2011,poskodovanecStarost,BOHINJ,otroci10do18Let,4
-2011,poskodovanecStarost,BOHINJ,otroci18do55Let,32
+2011,poskodovanecStarost,BOHINJ,osebe18do55Let,32
 2011,poskodovanecStarost,BOHINJ,osebe55do70Let,13
 2011,poskodovanecStarost,BOHINJ,nad70Let,1
 2011,poskodovanecStarost,BOHINJ,niPodatka,1
 2011,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2011,poskodovanecStarost,BOVEC,otroci10do18Let,3
-2011,poskodovanecStarost,BOVEC,otroci18do55Let,40
+2011,poskodovanecStarost,BOVEC,osebe18do55Let,40
 2011,poskodovanecStarost,BOVEC,osebe55do70Let,8
 2011,poskodovanecStarost,BOVEC,nad70Let,2
 2011,poskodovanecStarost,BOVEC,niPodatka,4
 2011,poskodovanecStarost,CELJE,otrociPod10Let,0
 2011,poskodovanecStarost,CELJE,otroci10do18Let,3
-2011,poskodovanecStarost,CELJE,otroci18do55Let,12
+2011,poskodovanecStarost,CELJE,osebe18do55Let,12
 2011,poskodovanecStarost,CELJE,osebe55do70Let,1
 2011,poskodovanecStarost,CELJE,nad70Let,1
 2011,poskodovanecStarost,CELJE,niPodatka,2
 2011,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2011,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2011,poskodovanecStarost,JESENICE,otroci18do55Let,2
+2011,poskodovanecStarost,JESENICE,osebe18do55Let,2
 2011,poskodovanecStarost,JESENICE,osebe55do70Let,0
 2011,poskodovanecStarost,JESENICE,nad70Let,1
 2011,poskodovanecStarost,JESENICE,niPodatka,1
 2011,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2011,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2011,poskodovanecStarost,JEZERSKO,otroci18do55Let,6
+2011,poskodovanecStarost,JEZERSKO,osebe18do55Let,6
 2011,poskodovanecStarost,JEZERSKO,osebe55do70Let,1
 2011,poskodovanecStarost,JEZERSKO,nad70Let,0
 2011,poskodovanecStarost,JEZERSKO,niPodatka,2
 2011,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2011,poskodovanecStarost,KAMNIK,otroci10do18Let,2
-2011,poskodovanecStarost,KAMNIK,otroci18do55Let,14
+2011,poskodovanecStarost,KAMNIK,osebe18do55Let,14
 2011,poskodovanecStarost,KAMNIK,osebe55do70Let,2
 2011,poskodovanecStarost,KAMNIK,nad70Let,1
 2011,poskodovanecStarost,KAMNIK,niPodatka,5
 2011,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2011,poskodovanecStarost,KOROŠKE,otroci10do18Let,1
-2011,poskodovanecStarost,KOROŠKE,otroci18do55Let,6
+2011,poskodovanecStarost,KOROŠKE,osebe18do55Let,6
 2011,poskodovanecStarost,KOROŠKE,osebe55do70Let,0
 2011,poskodovanecStarost,KOROŠKE,nad70Let,0
 2011,poskodovanecStarost,KOROŠKE,niPodatka,1
 2011,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2011,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2011,poskodovanecStarost,KRANJ,otroci18do55Let,6
+2011,poskodovanecStarost,KRANJ,osebe18do55Let,6
 2011,poskodovanecStarost,KRANJ,osebe55do70Let,1
 2011,poskodovanecStarost,KRANJ,nad70Let,1
 2011,poskodovanecStarost,KRANJ,niPodatka,5
 2011,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2011,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2011,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,14
+2011,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,14
 2011,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,3
 2011,poskodovanecStarost,KRANJSKA GORA,nad70Let,0
 2011,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2011,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2011,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2011,poskodovanecStarost,LJUBLJANA,otroci18do55Let,12
+2011,poskodovanecStarost,LJUBLJANA,osebe18do55Let,12
 2011,poskodovanecStarost,LJUBLJANA,osebe55do70Let,1
 2011,poskodovanecStarost,LJUBLJANA,nad70Let,1
 2011,poskodovanecStarost,LJUBLJANA,niPodatka,4
 2011,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2011,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2011,poskodovanecStarost,MARIBOR,otroci18do55Let,1
+2011,poskodovanecStarost,MARIBOR,osebe18do55Let,1
 2011,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2011,poskodovanecStarost,MARIBOR,nad70Let,0
 2011,poskodovanecStarost,MARIBOR,niPodatka,4
 2011,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2011,poskodovanecStarost,MOJSTRANA,otroci10do18Let,1
-2011,poskodovanecStarost,MOJSTRANA,otroci18do55Let,36
+2011,poskodovanecStarost,MOJSTRANA,osebe18do55Let,36
 2011,poskodovanecStarost,MOJSTRANA,osebe55do70Let,2
 2011,poskodovanecStarost,MOJSTRANA,nad70Let,1
 2011,poskodovanecStarost,MOJSTRANA,niPodatka,11
 2011,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2011,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2011,poskodovanecStarost,RADOVLJICA,otroci18do55Let,10
+2011,poskodovanecStarost,RADOVLJICA,osebe18do55Let,10
 2011,poskodovanecStarost,RADOVLJICA,osebe55do70Let,10
 2011,poskodovanecStarost,RADOVLJICA,nad70Let,2
 2011,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2011,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2011,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2011,poskodovanecStarost,RATEČE,otroci18do55Let,10
+2011,poskodovanecStarost,RATEČE,osebe18do55Let,10
 2011,poskodovanecStarost,RATEČE,osebe55do70Let,5
 2011,poskodovanecStarost,RATEČE,nad70Let,0
 2011,poskodovanecStarost,RATEČE,niPodatka,1
 2011,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2011,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,2
-2011,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,14
+2011,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,14
 2011,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,7
 2011,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,1
 2011,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2011,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2011,poskodovanecStarost,TOLMIN,otroci10do18Let,3
-2011,poskodovanecStarost,TOLMIN,otroci18do55Let,71
+2011,poskodovanecStarost,TOLMIN,osebe18do55Let,71
 2011,poskodovanecStarost,TOLMIN,osebe55do70Let,15
 2011,poskodovanecStarost,TOLMIN,nad70Let,3
 2011,poskodovanecStarost,TOLMIN,niPodatka,1
 2011,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2011,poskodovanecStarost,TRŽIČ,otroci10do18Let,1
-2011,poskodovanecStarost,TRŽIČ,otroci18do55Let,15
+2011,poskodovanecStarost,TRŽIČ,osebe18do55Let,15
 2011,poskodovanecStarost,TRŽIČ,osebe55do70Let,6
 2011,poskodovanecStarost,TRŽIČ,nad70Let,2
 2011,poskodovanecStarost,TRŽIČ,niPodatka,3
@@ -4753,109 +4753,109 @@ year,section,unit,metric,value
 2012,dejavnost,TRŽIČ,drugo,2
 2012,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2012,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2012,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2012,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2012,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2012,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2012,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2012,poskodovanecStarost,BOHINJ,otrociPod10Let,1
 2012,poskodovanecStarost,BOHINJ,otroci10do18Let,0
-2012,poskodovanecStarost,BOHINJ,otroci18do55Let,27
+2012,poskodovanecStarost,BOHINJ,osebe18do55Let,27
 2012,poskodovanecStarost,BOHINJ,osebe55do70Let,12
 2012,poskodovanecStarost,BOHINJ,nad70Let,4
 2012,poskodovanecStarost,BOHINJ,niPodatka,3
 2012,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2012,poskodovanecStarost,BOVEC,otroci10do18Let,1
-2012,poskodovanecStarost,BOVEC,otroci18do55Let,26
+2012,poskodovanecStarost,BOVEC,osebe18do55Let,26
 2012,poskodovanecStarost,BOVEC,osebe55do70Let,3
 2012,poskodovanecStarost,BOVEC,nad70Let,1
 2012,poskodovanecStarost,BOVEC,niPodatka,7
 2012,poskodovanecStarost,CELJE,otrociPod10Let,5
 2012,poskodovanecStarost,CELJE,otroci10do18Let,0
-2012,poskodovanecStarost,CELJE,otroci18do55Let,19
+2012,poskodovanecStarost,CELJE,osebe18do55Let,19
 2012,poskodovanecStarost,CELJE,osebe55do70Let,0
 2012,poskodovanecStarost,CELJE,nad70Let,3
 2012,poskodovanecStarost,CELJE,niPodatka,2
 2012,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2012,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2012,poskodovanecStarost,JESENICE,otroci18do55Let,5
+2012,poskodovanecStarost,JESENICE,osebe18do55Let,5
 2012,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2012,poskodovanecStarost,JESENICE,nad70Let,1
 2012,poskodovanecStarost,JESENICE,niPodatka,0
 2012,poskodovanecStarost,JEZERSKO,otrociPod10Let,1
 2012,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2012,poskodovanecStarost,JEZERSKO,otroci18do55Let,5
+2012,poskodovanecStarost,JEZERSKO,osebe18do55Let,5
 2012,poskodovanecStarost,JEZERSKO,osebe55do70Let,3
 2012,poskodovanecStarost,JEZERSKO,nad70Let,0
 2012,poskodovanecStarost,JEZERSKO,niPodatka,2
 2012,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2012,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2012,poskodovanecStarost,KAMNIK,otroci18do55Let,16
+2012,poskodovanecStarost,KAMNIK,osebe18do55Let,16
 2012,poskodovanecStarost,KAMNIK,osebe55do70Let,3
 2012,poskodovanecStarost,KAMNIK,nad70Let,2
 2012,poskodovanecStarost,KAMNIK,niPodatka,6
 2012,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2012,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2012,poskodovanecStarost,KOROŠKE,otroci18do55Let,2
+2012,poskodovanecStarost,KOROŠKE,osebe18do55Let,2
 2012,poskodovanecStarost,KOROŠKE,osebe55do70Let,2
 2012,poskodovanecStarost,KOROŠKE,nad70Let,0
 2012,poskodovanecStarost,KOROŠKE,niPodatka,0
 2012,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2012,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2012,poskodovanecStarost,KRANJ,otroci18do55Let,3
+2012,poskodovanecStarost,KRANJ,osebe18do55Let,3
 2012,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2012,poskodovanecStarost,KRANJ,nad70Let,0
 2012,poskodovanecStarost,KRANJ,niPodatka,8
 2012,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2012,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2012,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,25
+2012,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,25
 2012,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,7
 2012,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2012,poskodovanecStarost,KRANJSKA GORA,niPodatka,1
 2012,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2012,poskodovanecStarost,LJUBLJANA,otroci10do18Let,1
-2012,poskodovanecStarost,LJUBLJANA,otroci18do55Let,7
+2012,poskodovanecStarost,LJUBLJANA,osebe18do55Let,7
 2012,poskodovanecStarost,LJUBLJANA,osebe55do70Let,6
 2012,poskodovanecStarost,LJUBLJANA,nad70Let,5
 2012,poskodovanecStarost,LJUBLJANA,niPodatka,4
 2012,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2012,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2012,poskodovanecStarost,MARIBOR,otroci18do55Let,4
+2012,poskodovanecStarost,MARIBOR,osebe18do55Let,4
 2012,poskodovanecStarost,MARIBOR,osebe55do70Let,2
 2012,poskodovanecStarost,MARIBOR,nad70Let,3
 2012,poskodovanecStarost,MARIBOR,niPodatka,0
 2012,poskodovanecStarost,MOJSTRANA,otrociPod10Let,1
 2012,poskodovanecStarost,MOJSTRANA,otroci10do18Let,3
-2012,poskodovanecStarost,MOJSTRANA,otroci18do55Let,23
+2012,poskodovanecStarost,MOJSTRANA,osebe18do55Let,23
 2012,poskodovanecStarost,MOJSTRANA,osebe55do70Let,5
 2012,poskodovanecStarost,MOJSTRANA,nad70Let,1
 2012,poskodovanecStarost,MOJSTRANA,niPodatka,8
 2012,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2012,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2012,poskodovanecStarost,RADOVLJICA,otroci18do55Let,11
+2012,poskodovanecStarost,RADOVLJICA,osebe18do55Let,11
 2012,poskodovanecStarost,RADOVLJICA,osebe55do70Let,6
 2012,poskodovanecStarost,RADOVLJICA,nad70Let,2
 2012,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2012,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2012,poskodovanecStarost,RATEČE,otroci10do18Let,1
-2012,poskodovanecStarost,RATEČE,otroci18do55Let,6
+2012,poskodovanecStarost,RATEČE,osebe18do55Let,6
 2012,poskodovanecStarost,RATEČE,osebe55do70Let,3
 2012,poskodovanecStarost,RATEČE,nad70Let,0
 2012,poskodovanecStarost,RATEČE,niPodatka,1
 2012,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2012,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2012,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,2
+2012,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,2
 2012,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,3
 2012,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2012,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2012,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2012,poskodovanecStarost,TOLMIN,otroci10do18Let,2
-2012,poskodovanecStarost,TOLMIN,otroci18do55Let,68
+2012,poskodovanecStarost,TOLMIN,osebe18do55Let,68
 2012,poskodovanecStarost,TOLMIN,osebe55do70Let,19
 2012,poskodovanecStarost,TOLMIN,nad70Let,1
 2012,poskodovanecStarost,TOLMIN,niPodatka,2
 2012,poskodovanecStarost,TRŽIČ,otrociPod10Let,1
 2012,poskodovanecStarost,TRŽIČ,otroci10do18Let,1
-2012,poskodovanecStarost,TRŽIČ,otroci18do55Let,27
+2012,poskodovanecStarost,TRŽIČ,osebe18do55Let,27
 2012,poskodovanecStarost,TRŽIČ,osebe55do70Let,5
 2012,poskodovanecStarost,TRŽIČ,nad70Let,1
 2012,poskodovanecStarost,TRŽIČ,niPodatka,3
@@ -5452,109 +5452,109 @@ year,section,unit,metric,value
 2013,dejavnost,TRŽIČ,drugo,2
 2013,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2013,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2013,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2013,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2013,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2013,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2013,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2013,poskodovanecStarost,BOHINJ,otrociPod10Let,1
 2013,poskodovanecStarost,BOHINJ,otroci10do18Let,3
-2013,poskodovanecStarost,BOHINJ,otroci18do55Let,34
+2013,poskodovanecStarost,BOHINJ,osebe18do55Let,34
 2013,poskodovanecStarost,BOHINJ,osebe55do70Let,18
 2013,poskodovanecStarost,BOHINJ,nad70Let,10
 2013,poskodovanecStarost,BOHINJ,niPodatka,3
 2013,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2013,poskodovanecStarost,BOVEC,otroci10do18Let,1
-2013,poskodovanecStarost,BOVEC,otroci18do55Let,11
+2013,poskodovanecStarost,BOVEC,osebe18do55Let,11
 2013,poskodovanecStarost,BOVEC,osebe55do70Let,3
 2013,poskodovanecStarost,BOVEC,nad70Let,1
 2013,poskodovanecStarost,BOVEC,niPodatka,14
 2013,poskodovanecStarost,CELJE,otrociPod10Let,0
 2013,poskodovanecStarost,CELJE,otroci10do18Let,1
-2013,poskodovanecStarost,CELJE,otroci18do55Let,8
+2013,poskodovanecStarost,CELJE,osebe18do55Let,8
 2013,poskodovanecStarost,CELJE,osebe55do70Let,3
 2013,poskodovanecStarost,CELJE,nad70Let,0
 2013,poskodovanecStarost,CELJE,niPodatka,9
 2013,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2013,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2013,poskodovanecStarost,JESENICE,otroci18do55Let,2
+2013,poskodovanecStarost,JESENICE,osebe18do55Let,2
 2013,poskodovanecStarost,JESENICE,osebe55do70Let,0
 2013,poskodovanecStarost,JESENICE,nad70Let,0
 2013,poskodovanecStarost,JESENICE,niPodatka,0
 2013,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2013,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2013,poskodovanecStarost,JEZERSKO,otroci18do55Let,1
+2013,poskodovanecStarost,JEZERSKO,osebe18do55Let,1
 2013,poskodovanecStarost,JEZERSKO,osebe55do70Let,0
 2013,poskodovanecStarost,JEZERSKO,nad70Let,0
 2013,poskodovanecStarost,JEZERSKO,niPodatka,2
 2013,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2013,poskodovanecStarost,KAMNIK,otroci10do18Let,3
-2013,poskodovanecStarost,KAMNIK,otroci18do55Let,19
+2013,poskodovanecStarost,KAMNIK,osebe18do55Let,19
 2013,poskodovanecStarost,KAMNIK,osebe55do70Let,7
 2013,poskodovanecStarost,KAMNIK,nad70Let,2
 2013,poskodovanecStarost,KAMNIK,niPodatka,5
 2013,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2013,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2013,poskodovanecStarost,KOROŠKE,otroci18do55Let,4
+2013,poskodovanecStarost,KOROŠKE,osebe18do55Let,4
 2013,poskodovanecStarost,KOROŠKE,osebe55do70Let,4
 2013,poskodovanecStarost,KOROŠKE,nad70Let,0
 2013,poskodovanecStarost,KOROŠKE,niPodatka,2
 2013,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2013,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2013,poskodovanecStarost,KRANJ,otroci18do55Let,1
+2013,poskodovanecStarost,KRANJ,osebe18do55Let,1
 2013,poskodovanecStarost,KRANJ,osebe55do70Let,2
 2013,poskodovanecStarost,KRANJ,nad70Let,0
 2013,poskodovanecStarost,KRANJ,niPodatka,15
 2013,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2013,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,2
-2013,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,22
+2013,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,22
 2013,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,3
 2013,poskodovanecStarost,KRANJSKA GORA,nad70Let,4
 2013,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2013,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2013,poskodovanecStarost,LJUBLJANA,otroci10do18Let,2
-2013,poskodovanecStarost,LJUBLJANA,otroci18do55Let,11
+2013,poskodovanecStarost,LJUBLJANA,osebe18do55Let,11
 2013,poskodovanecStarost,LJUBLJANA,osebe55do70Let,6
 2013,poskodovanecStarost,LJUBLJANA,nad70Let,9
 2013,poskodovanecStarost,LJUBLJANA,niPodatka,1
 2013,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2013,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2013,poskodovanecStarost,MARIBOR,otroci18do55Let,3
+2013,poskodovanecStarost,MARIBOR,osebe18do55Let,3
 2013,poskodovanecStarost,MARIBOR,osebe55do70Let,4
 2013,poskodovanecStarost,MARIBOR,nad70Let,0
 2013,poskodovanecStarost,MARIBOR,niPodatka,0
 2013,poskodovanecStarost,MOJSTRANA,otrociPod10Let,1
 2013,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2013,poskodovanecStarost,MOJSTRANA,otroci18do55Let,35
+2013,poskodovanecStarost,MOJSTRANA,osebe18do55Let,35
 2013,poskodovanecStarost,MOJSTRANA,osebe55do70Let,1
 2013,poskodovanecStarost,MOJSTRANA,nad70Let,1
 2013,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2013,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2013,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2013,poskodovanecStarost,RADOVLJICA,otroci18do55Let,11
+2013,poskodovanecStarost,RADOVLJICA,osebe18do55Let,11
 2013,poskodovanecStarost,RADOVLJICA,osebe55do70Let,5
 2013,poskodovanecStarost,RADOVLJICA,nad70Let,4
 2013,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2013,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2013,poskodovanecStarost,RATEČE,otroci10do18Let,7
-2013,poskodovanecStarost,RATEČE,otroci18do55Let,28
+2013,poskodovanecStarost,RATEČE,osebe18do55Let,28
 2013,poskodovanecStarost,RATEČE,osebe55do70Let,4
 2013,poskodovanecStarost,RATEČE,nad70Let,0
 2013,poskodovanecStarost,RATEČE,niPodatka,1
 2013,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2013,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2013,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,6
+2013,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,6
 2013,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,3
 2013,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2013,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2013,poskodovanecStarost,TOLMIN,otrociPod10Let,1
 2013,poskodovanecStarost,TOLMIN,otroci10do18Let,3
-2013,poskodovanecStarost,TOLMIN,otroci18do55Let,34
+2013,poskodovanecStarost,TOLMIN,osebe18do55Let,34
 2013,poskodovanecStarost,TOLMIN,osebe55do70Let,3
 2013,poskodovanecStarost,TOLMIN,nad70Let,9
 2013,poskodovanecStarost,TOLMIN,niPodatka,2
 2013,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2013,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2013,poskodovanecStarost,TRŽIČ,otroci18do55Let,13
+2013,poskodovanecStarost,TRŽIČ,osebe18do55Let,13
 2013,poskodovanecStarost,TRŽIČ,osebe55do70Let,2
 2013,poskodovanecStarost,TRŽIČ,nad70Let,2
 2013,poskodovanecStarost,TRŽIČ,niPodatka,4
@@ -6151,109 +6151,109 @@ year,section,unit,metric,value
 2014,dejavnost,TRŽIČ,drugo,2
 2014,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2014,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2014,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2014,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2014,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2014,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2014,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2014,poskodovanecStarost,BOHINJ,otrociPod10Let,0
 2014,poskodovanecStarost,BOHINJ,otroci10do18Let,1
-2014,poskodovanecStarost,BOHINJ,otroci18do55Let,30
+2014,poskodovanecStarost,BOHINJ,osebe18do55Let,30
 2014,poskodovanecStarost,BOHINJ,osebe55do70Let,10
 2014,poskodovanecStarost,BOHINJ,nad70Let,7
 2014,poskodovanecStarost,BOHINJ,niPodatka,7
 2014,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2014,poskodovanecStarost,BOVEC,otroci10do18Let,1
-2014,poskodovanecStarost,BOVEC,otroci18do55Let,15
+2014,poskodovanecStarost,BOVEC,osebe18do55Let,15
 2014,poskodovanecStarost,BOVEC,osebe55do70Let,6
 2014,poskodovanecStarost,BOVEC,nad70Let,3
 2014,poskodovanecStarost,BOVEC,niPodatka,15
 2014,poskodovanecStarost,CELJE,otrociPod10Let,0
 2014,poskodovanecStarost,CELJE,otroci10do18Let,1
-2014,poskodovanecStarost,CELJE,otroci18do55Let,9
+2014,poskodovanecStarost,CELJE,osebe18do55Let,9
 2014,poskodovanecStarost,CELJE,osebe55do70Let,2
 2014,poskodovanecStarost,CELJE,nad70Let,1
 2014,poskodovanecStarost,CELJE,niPodatka,0
 2014,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2014,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2014,poskodovanecStarost,JESENICE,otroci18do55Let,4
+2014,poskodovanecStarost,JESENICE,osebe18do55Let,4
 2014,poskodovanecStarost,JESENICE,osebe55do70Let,2
 2014,poskodovanecStarost,JESENICE,nad70Let,0
 2014,poskodovanecStarost,JESENICE,niPodatka,0
 2014,poskodovanecStarost,JEZERSKO,otrociPod10Let,1
 2014,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2014,poskodovanecStarost,JEZERSKO,otroci18do55Let,8
+2014,poskodovanecStarost,JEZERSKO,osebe18do55Let,8
 2014,poskodovanecStarost,JEZERSKO,osebe55do70Let,6
 2014,poskodovanecStarost,JEZERSKO,nad70Let,0
 2014,poskodovanecStarost,JEZERSKO,niPodatka,1
 2014,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2014,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2014,poskodovanecStarost,KAMNIK,otroci18do55Let,13
+2014,poskodovanecStarost,KAMNIK,osebe18do55Let,13
 2014,poskodovanecStarost,KAMNIK,osebe55do70Let,1
 2014,poskodovanecStarost,KAMNIK,nad70Let,1
 2014,poskodovanecStarost,KAMNIK,niPodatka,4
 2014,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2014,poskodovanecStarost,KOROŠKE,otroci10do18Let,1
-2014,poskodovanecStarost,KOROŠKE,otroci18do55Let,5
+2014,poskodovanecStarost,KOROŠKE,osebe18do55Let,5
 2014,poskodovanecStarost,KOROŠKE,osebe55do70Let,1
 2014,poskodovanecStarost,KOROŠKE,nad70Let,0
 2014,poskodovanecStarost,KOROŠKE,niPodatka,1
 2014,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2014,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2014,poskodovanecStarost,KRANJ,otroci18do55Let,0
+2014,poskodovanecStarost,KRANJ,osebe18do55Let,0
 2014,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2014,poskodovanecStarost,KRANJ,nad70Let,0
 2014,poskodovanecStarost,KRANJ,niPodatka,15
 2014,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2014,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2014,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,13
+2014,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,13
 2014,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,6
 2014,poskodovanecStarost,KRANJSKA GORA,nad70Let,3
 2014,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2014,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2014,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2014,poskodovanecStarost,LJUBLJANA,otroci18do55Let,16
+2014,poskodovanecStarost,LJUBLJANA,osebe18do55Let,16
 2014,poskodovanecStarost,LJUBLJANA,osebe55do70Let,7
 2014,poskodovanecStarost,LJUBLJANA,nad70Let,1
 2014,poskodovanecStarost,LJUBLJANA,niPodatka,2
 2014,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2014,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2014,poskodovanecStarost,MARIBOR,otroci18do55Let,2
+2014,poskodovanecStarost,MARIBOR,osebe18do55Let,2
 2014,poskodovanecStarost,MARIBOR,osebe55do70Let,1
 2014,poskodovanecStarost,MARIBOR,nad70Let,0
 2014,poskodovanecStarost,MARIBOR,niPodatka,2
 2014,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2014,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2014,poskodovanecStarost,MOJSTRANA,otroci18do55Let,16
+2014,poskodovanecStarost,MOJSTRANA,osebe18do55Let,16
 2014,poskodovanecStarost,MOJSTRANA,osebe55do70Let,5
 2014,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2014,poskodovanecStarost,MOJSTRANA,niPodatka,1
 2014,poskodovanecStarost,RADOVLJICA,otrociPod10Let,1
 2014,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2014,poskodovanecStarost,RADOVLJICA,otroci18do55Let,13
+2014,poskodovanecStarost,RADOVLJICA,osebe18do55Let,13
 2014,poskodovanecStarost,RADOVLJICA,osebe55do70Let,5
 2014,poskodovanecStarost,RADOVLJICA,nad70Let,2
 2014,poskodovanecStarost,RADOVLJICA,niPodatka,2
 2014,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2014,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2014,poskodovanecStarost,RATEČE,otroci18do55Let,4
+2014,poskodovanecStarost,RATEČE,osebe18do55Let,4
 2014,poskodovanecStarost,RATEČE,osebe55do70Let,2
 2014,poskodovanecStarost,RATEČE,nad70Let,0
 2014,poskodovanecStarost,RATEČE,niPodatka,1
 2014,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2014,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,1
-2014,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,11
+2014,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,11
 2014,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,3
 2014,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,1
 2014,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2014,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2014,poskodovanecStarost,TOLMIN,otroci10do18Let,2
-2014,poskodovanecStarost,TOLMIN,otroci18do55Let,44
+2014,poskodovanecStarost,TOLMIN,osebe18do55Let,44
 2014,poskodovanecStarost,TOLMIN,osebe55do70Let,15
 2014,poskodovanecStarost,TOLMIN,nad70Let,2
 2014,poskodovanecStarost,TOLMIN,niPodatka,1
 2014,poskodovanecStarost,TRŽIČ,otrociPod10Let,1
 2014,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2014,poskodovanecStarost,TRŽIČ,otroci18do55Let,13
+2014,poskodovanecStarost,TRŽIČ,osebe18do55Let,13
 2014,poskodovanecStarost,TRŽIČ,osebe55do70Let,1
 2014,poskodovanecStarost,TRŽIČ,nad70Let,4
 2014,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -6850,109 +6850,109 @@ year,section,unit,metric,value
 2015,dejavnost,TRŽIČ,drugo,5
 2015,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2015,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2015,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2015,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2015,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2015,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2015,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2015,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2015,poskodovanecStarost,BOHINJ,otroci10do18Let,0
-2015,poskodovanecStarost,BOHINJ,otroci18do55Let,38
+2015,poskodovanecStarost,BOHINJ,osebe18do55Let,38
 2015,poskodovanecStarost,BOHINJ,osebe55do70Let,9
 2015,poskodovanecStarost,BOHINJ,nad70Let,3
 2015,poskodovanecStarost,BOHINJ,niPodatka,6
 2015,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2015,poskodovanecStarost,BOVEC,otroci10do18Let,2
-2015,poskodovanecStarost,BOVEC,otroci18do55Let,12
+2015,poskodovanecStarost,BOVEC,osebe18do55Let,12
 2015,poskodovanecStarost,BOVEC,osebe55do70Let,4
 2015,poskodovanecStarost,BOVEC,nad70Let,1
 2015,poskodovanecStarost,BOVEC,niPodatka,25
 2015,poskodovanecStarost,CELJE,otrociPod10Let,0
 2015,poskodovanecStarost,CELJE,otroci10do18Let,3
-2015,poskodovanecStarost,CELJE,otroci18do55Let,17
+2015,poskodovanecStarost,CELJE,osebe18do55Let,17
 2015,poskodovanecStarost,CELJE,osebe55do70Let,3
 2015,poskodovanecStarost,CELJE,nad70Let,3
 2015,poskodovanecStarost,CELJE,niPodatka,2
 2015,poskodovanecStarost,JESENICE,otrociPod10Let,1
 2015,poskodovanecStarost,JESENICE,otroci10do18Let,1
-2015,poskodovanecStarost,JESENICE,otroci18do55Let,4
+2015,poskodovanecStarost,JESENICE,osebe18do55Let,4
 2015,poskodovanecStarost,JESENICE,osebe55do70Let,4
 2015,poskodovanecStarost,JESENICE,nad70Let,0
 2015,poskodovanecStarost,JESENICE,niPodatka,1
 2015,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2015,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2015,poskodovanecStarost,JEZERSKO,otroci18do55Let,6
+2015,poskodovanecStarost,JEZERSKO,osebe18do55Let,6
 2015,poskodovanecStarost,JEZERSKO,osebe55do70Let,2
 2015,poskodovanecStarost,JEZERSKO,nad70Let,1
 2015,poskodovanecStarost,JEZERSKO,niPodatka,3
 2015,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2015,poskodovanecStarost,KAMNIK,otroci10do18Let,2
-2015,poskodovanecStarost,KAMNIK,otroci18do55Let,11
+2015,poskodovanecStarost,KAMNIK,osebe18do55Let,11
 2015,poskodovanecStarost,KAMNIK,osebe55do70Let,5
 2015,poskodovanecStarost,KAMNIK,nad70Let,1
 2015,poskodovanecStarost,KAMNIK,niPodatka,5
 2015,poskodovanecStarost,KOROŠKE,otrociPod10Let,2
 2015,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2015,poskodovanecStarost,KOROŠKE,otroci18do55Let,6
+2015,poskodovanecStarost,KOROŠKE,osebe18do55Let,6
 2015,poskodovanecStarost,KOROŠKE,osebe55do70Let,0
 2015,poskodovanecStarost,KOROŠKE,nad70Let,1
 2015,poskodovanecStarost,KOROŠKE,niPodatka,3
 2015,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2015,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2015,poskodovanecStarost,KRANJ,otroci18do55Let,0
+2015,poskodovanecStarost,KRANJ,osebe18do55Let,0
 2015,poskodovanecStarost,KRANJ,osebe55do70Let,2
 2015,poskodovanecStarost,KRANJ,nad70Let,1
 2015,poskodovanecStarost,KRANJ,niPodatka,7
 2015,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2015,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2015,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,19
+2015,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,19
 2015,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,5
 2015,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2015,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2015,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2015,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2015,poskodovanecStarost,LJUBLJANA,otroci18do55Let,16
+2015,poskodovanecStarost,LJUBLJANA,osebe18do55Let,16
 2015,poskodovanecStarost,LJUBLJANA,osebe55do70Let,3
 2015,poskodovanecStarost,LJUBLJANA,nad70Let,3
 2015,poskodovanecStarost,LJUBLJANA,niPodatka,3
 2015,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2015,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2015,poskodovanecStarost,MARIBOR,otroci18do55Let,5
+2015,poskodovanecStarost,MARIBOR,osebe18do55Let,5
 2015,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2015,poskodovanecStarost,MARIBOR,nad70Let,0
 2015,poskodovanecStarost,MARIBOR,niPodatka,1
 2015,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2015,poskodovanecStarost,MOJSTRANA,otroci10do18Let,1
-2015,poskodovanecStarost,MOJSTRANA,otroci18do55Let,50
+2015,poskodovanecStarost,MOJSTRANA,osebe18do55Let,50
 2015,poskodovanecStarost,MOJSTRANA,osebe55do70Let,10
 2015,poskodovanecStarost,MOJSTRANA,nad70Let,2
 2015,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2015,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2015,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2015,poskodovanecStarost,RADOVLJICA,otroci18do55Let,9
+2015,poskodovanecStarost,RADOVLJICA,osebe18do55Let,9
 2015,poskodovanecStarost,RADOVLJICA,osebe55do70Let,8
 2015,poskodovanecStarost,RADOVLJICA,nad70Let,1
 2015,poskodovanecStarost,RADOVLJICA,niPodatka,6
 2015,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2015,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2015,poskodovanecStarost,RATEČE,otroci18do55Let,7
+2015,poskodovanecStarost,RATEČE,osebe18do55Let,7
 2015,poskodovanecStarost,RATEČE,osebe55do70Let,1
 2015,poskodovanecStarost,RATEČE,nad70Let,2
 2015,poskodovanecStarost,RATEČE,niPodatka,1
 2015,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2015,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,2
-2015,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,6
+2015,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,6
 2015,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,0
 2015,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,2
 2015,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,1
 2015,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2015,poskodovanecStarost,TOLMIN,otroci10do18Let,0
-2015,poskodovanecStarost,TOLMIN,otroci18do55Let,39
+2015,poskodovanecStarost,TOLMIN,osebe18do55Let,39
 2015,poskodovanecStarost,TOLMIN,osebe55do70Let,21
 2015,poskodovanecStarost,TOLMIN,nad70Let,5
 2015,poskodovanecStarost,TOLMIN,niPodatka,6
 2015,poskodovanecStarost,TRŽIČ,otrociPod10Let,3
 2015,poskodovanecStarost,TRŽIČ,otroci10do18Let,1
-2015,poskodovanecStarost,TRŽIČ,otroci18do55Let,16
+2015,poskodovanecStarost,TRŽIČ,osebe18do55Let,16
 2015,poskodovanecStarost,TRŽIČ,osebe55do70Let,9
 2015,poskodovanecStarost,TRŽIČ,nad70Let,2
 2015,poskodovanecStarost,TRŽIČ,niPodatka,1
@@ -7549,109 +7549,109 @@ year,section,unit,metric,value
 2016,dejavnost,TRŽIČ,drugo,1
 2016,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2016,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2016,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2016,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2016,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2016,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2016,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2016,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2016,poskodovanecStarost,BOHINJ,otroci10do18Let,3
-2016,poskodovanecStarost,BOHINJ,otroci18do55Let,38
+2016,poskodovanecStarost,BOHINJ,osebe18do55Let,38
 2016,poskodovanecStarost,BOHINJ,osebe55do70Let,9
 2016,poskodovanecStarost,BOHINJ,nad70Let,9
 2016,poskodovanecStarost,BOHINJ,niPodatka,8
 2016,poskodovanecStarost,BOVEC,otrociPod10Let,1
 2016,poskodovanecStarost,BOVEC,otroci10do18Let,2
-2016,poskodovanecStarost,BOVEC,otroci18do55Let,30
+2016,poskodovanecStarost,BOVEC,osebe18do55Let,30
 2016,poskodovanecStarost,BOVEC,osebe55do70Let,6
 2016,poskodovanecStarost,BOVEC,nad70Let,3
 2016,poskodovanecStarost,BOVEC,niPodatka,15
 2016,poskodovanecStarost,CELJE,otrociPod10Let,2
 2016,poskodovanecStarost,CELJE,otroci10do18Let,0
-2016,poskodovanecStarost,CELJE,otroci18do55Let,22
+2016,poskodovanecStarost,CELJE,osebe18do55Let,22
 2016,poskodovanecStarost,CELJE,osebe55do70Let,6
 2016,poskodovanecStarost,CELJE,nad70Let,1
 2016,poskodovanecStarost,CELJE,niPodatka,5
 2016,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2016,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2016,poskodovanecStarost,JESENICE,otroci18do55Let,1
+2016,poskodovanecStarost,JESENICE,osebe18do55Let,1
 2016,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2016,poskodovanecStarost,JESENICE,nad70Let,0
 2016,poskodovanecStarost,JESENICE,niPodatka,0
 2016,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2016,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2016,poskodovanecStarost,JEZERSKO,otroci18do55Let,8
+2016,poskodovanecStarost,JEZERSKO,osebe18do55Let,8
 2016,poskodovanecStarost,JEZERSKO,osebe55do70Let,4
 2016,poskodovanecStarost,JEZERSKO,nad70Let,0
 2016,poskodovanecStarost,JEZERSKO,niPodatka,3
 2016,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2016,poskodovanecStarost,KAMNIK,otroci10do18Let,2
-2016,poskodovanecStarost,KAMNIK,otroci18do55Let,21
+2016,poskodovanecStarost,KAMNIK,osebe18do55Let,21
 2016,poskodovanecStarost,KAMNIK,osebe55do70Let,8
 2016,poskodovanecStarost,KAMNIK,nad70Let,3
 2016,poskodovanecStarost,KAMNIK,niPodatka,2
 2016,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2016,poskodovanecStarost,KOROŠKE,otroci10do18Let,1
-2016,poskodovanecStarost,KOROŠKE,otroci18do55Let,4
+2016,poskodovanecStarost,KOROŠKE,osebe18do55Let,4
 2016,poskodovanecStarost,KOROŠKE,osebe55do70Let,3
 2016,poskodovanecStarost,KOROŠKE,nad70Let,2
 2016,poskodovanecStarost,KOROŠKE,niPodatka,5
 2016,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2016,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2016,poskodovanecStarost,KRANJ,otroci18do55Let,2
+2016,poskodovanecStarost,KRANJ,osebe18do55Let,2
 2016,poskodovanecStarost,KRANJ,osebe55do70Let,1
 2016,poskodovanecStarost,KRANJ,nad70Let,0
 2016,poskodovanecStarost,KRANJ,niPodatka,11
 2016,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2016,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,3
-2016,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,30
+2016,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,30
 2016,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,1
 2016,poskodovanecStarost,KRANJSKA GORA,nad70Let,2
 2016,poskodovanecStarost,KRANJSKA GORA,niPodatka,1
 2016,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2016,poskodovanecStarost,LJUBLJANA,otroci10do18Let,1
-2016,poskodovanecStarost,LJUBLJANA,otroci18do55Let,11
+2016,poskodovanecStarost,LJUBLJANA,osebe18do55Let,11
 2016,poskodovanecStarost,LJUBLJANA,osebe55do70Let,9
 2016,poskodovanecStarost,LJUBLJANA,nad70Let,1
 2016,poskodovanecStarost,LJUBLJANA,niPodatka,7
 2016,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2016,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2016,poskodovanecStarost,MARIBOR,otroci18do55Let,1
+2016,poskodovanecStarost,MARIBOR,osebe18do55Let,1
 2016,poskodovanecStarost,MARIBOR,osebe55do70Let,1
 2016,poskodovanecStarost,MARIBOR,nad70Let,1
 2016,poskodovanecStarost,MARIBOR,niPodatka,5
 2016,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2016,poskodovanecStarost,MOJSTRANA,otroci10do18Let,2
-2016,poskodovanecStarost,MOJSTRANA,otroci18do55Let,36
+2016,poskodovanecStarost,MOJSTRANA,osebe18do55Let,36
 2016,poskodovanecStarost,MOJSTRANA,osebe55do70Let,5
 2016,poskodovanecStarost,MOJSTRANA,nad70Let,2
 2016,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2016,poskodovanecStarost,RADOVLJICA,otrociPod10Let,1
 2016,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2016,poskodovanecStarost,RADOVLJICA,otroci18do55Let,15
+2016,poskodovanecStarost,RADOVLJICA,osebe18do55Let,15
 2016,poskodovanecStarost,RADOVLJICA,osebe55do70Let,7
 2016,poskodovanecStarost,RADOVLJICA,nad70Let,4
 2016,poskodovanecStarost,RADOVLJICA,niPodatka,1
 2016,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2016,poskodovanecStarost,RATEČE,otroci10do18Let,2
-2016,poskodovanecStarost,RATEČE,otroci18do55Let,17
+2016,poskodovanecStarost,RATEČE,osebe18do55Let,17
 2016,poskodovanecStarost,RATEČE,osebe55do70Let,3
 2016,poskodovanecStarost,RATEČE,nad70Let,1
 2016,poskodovanecStarost,RATEČE,niPodatka,0
 2016,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2016,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,2
-2016,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,8
+2016,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,8
 2016,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,1
 2016,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,0
 2016,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2016,poskodovanecStarost,TOLMIN,otrociPod10Let,2
 2016,poskodovanecStarost,TOLMIN,otroci10do18Let,3
-2016,poskodovanecStarost,TOLMIN,otroci18do55Let,48
+2016,poskodovanecStarost,TOLMIN,osebe18do55Let,48
 2016,poskodovanecStarost,TOLMIN,osebe55do70Let,16
 2016,poskodovanecStarost,TOLMIN,nad70Let,2
 2016,poskodovanecStarost,TOLMIN,niPodatka,1
 2016,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2016,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2016,poskodovanecStarost,TRŽIČ,otroci18do55Let,16
+2016,poskodovanecStarost,TRŽIČ,osebe18do55Let,16
 2016,poskodovanecStarost,TRŽIČ,osebe55do70Let,4
 2016,poskodovanecStarost,TRŽIČ,nad70Let,2
 2016,poskodovanecStarost,TRŽIČ,niPodatka,1
@@ -8248,109 +8248,109 @@ year,section,unit,metric,value
 2017,dejavnost,TRŽIČ,drugo,2
 2017,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2017,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2017,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2017,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2017,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2017,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2017,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2017,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2017,poskodovanecStarost,BOHINJ,otroci10do18Let,6
-2017,poskodovanecStarost,BOHINJ,otroci18do55Let,40
+2017,poskodovanecStarost,BOHINJ,osebe18do55Let,40
 2017,poskodovanecStarost,BOHINJ,osebe55do70Let,14
 2017,poskodovanecStarost,BOHINJ,nad70Let,4
 2017,poskodovanecStarost,BOHINJ,niPodatka,4
 2017,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2017,poskodovanecStarost,BOVEC,otroci10do18Let,2
-2017,poskodovanecStarost,BOVEC,otroci18do55Let,24
+2017,poskodovanecStarost,BOVEC,osebe18do55Let,24
 2017,poskodovanecStarost,BOVEC,osebe55do70Let,5
 2017,poskodovanecStarost,BOVEC,nad70Let,3
 2017,poskodovanecStarost,BOVEC,niPodatka,27
 2017,poskodovanecStarost,CELJE,otrociPod10Let,1
 2017,poskodovanecStarost,CELJE,otroci10do18Let,1
-2017,poskodovanecStarost,CELJE,otroci18do55Let,9
+2017,poskodovanecStarost,CELJE,osebe18do55Let,9
 2017,poskodovanecStarost,CELJE,osebe55do70Let,3
 2017,poskodovanecStarost,CELJE,nad70Let,1
 2017,poskodovanecStarost,CELJE,niPodatka,6
 2017,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2017,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2017,poskodovanecStarost,JESENICE,otroci18do55Let,3
+2017,poskodovanecStarost,JESENICE,osebe18do55Let,3
 2017,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2017,poskodovanecStarost,JESENICE,nad70Let,0
 2017,poskodovanecStarost,JESENICE,niPodatka,0
 2017,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2017,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2017,poskodovanecStarost,JEZERSKO,otroci18do55Let,8
+2017,poskodovanecStarost,JEZERSKO,osebe18do55Let,8
 2017,poskodovanecStarost,JEZERSKO,osebe55do70Let,4
 2017,poskodovanecStarost,JEZERSKO,nad70Let,0
 2017,poskodovanecStarost,JEZERSKO,niPodatka,2
 2017,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2017,poskodovanecStarost,KAMNIK,otroci10do18Let,3
-2017,poskodovanecStarost,KAMNIK,otroci18do55Let,31
+2017,poskodovanecStarost,KAMNIK,osebe18do55Let,31
 2017,poskodovanecStarost,KAMNIK,osebe55do70Let,1
 2017,poskodovanecStarost,KAMNIK,nad70Let,0
 2017,poskodovanecStarost,KAMNIK,niPodatka,12
 2017,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2017,poskodovanecStarost,KOROŠKE,otroci10do18Let,1
-2017,poskodovanecStarost,KOROŠKE,otroci18do55Let,1
+2017,poskodovanecStarost,KOROŠKE,osebe18do55Let,1
 2017,poskodovanecStarost,KOROŠKE,osebe55do70Let,1
 2017,poskodovanecStarost,KOROŠKE,nad70Let,1
 2017,poskodovanecStarost,KOROŠKE,niPodatka,1
 2017,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2017,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2017,poskodovanecStarost,KRANJ,otroci18do55Let,2
+2017,poskodovanecStarost,KRANJ,osebe18do55Let,2
 2017,poskodovanecStarost,KRANJ,osebe55do70Let,3
 2017,poskodovanecStarost,KRANJ,nad70Let,0
 2017,poskodovanecStarost,KRANJ,niPodatka,15
 2017,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2017,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,0
-2017,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,14
+2017,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,14
 2017,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,6
 2017,poskodovanecStarost,KRANJSKA GORA,nad70Let,5
 2017,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2017,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2017,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2017,poskodovanecStarost,LJUBLJANA,otroci18do55Let,6
+2017,poskodovanecStarost,LJUBLJANA,osebe18do55Let,6
 2017,poskodovanecStarost,LJUBLJANA,osebe55do70Let,15
 2017,poskodovanecStarost,LJUBLJANA,nad70Let,11
 2017,poskodovanecStarost,LJUBLJANA,niPodatka,6
 2017,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2017,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2017,poskodovanecStarost,MARIBOR,otroci18do55Let,1
+2017,poskodovanecStarost,MARIBOR,osebe18do55Let,1
 2017,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2017,poskodovanecStarost,MARIBOR,nad70Let,0
 2017,poskodovanecStarost,MARIBOR,niPodatka,1
 2017,poskodovanecStarost,MOJSTRANA,otrociPod10Let,1
 2017,poskodovanecStarost,MOJSTRANA,otroci10do18Let,3
-2017,poskodovanecStarost,MOJSTRANA,otroci18do55Let,43
+2017,poskodovanecStarost,MOJSTRANA,osebe18do55Let,43
 2017,poskodovanecStarost,MOJSTRANA,osebe55do70Let,4
 2017,poskodovanecStarost,MOJSTRANA,nad70Let,5
 2017,poskodovanecStarost,MOJSTRANA,niPodatka,1
 2017,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2017,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2017,poskodovanecStarost,RADOVLJICA,otroci18do55Let,8
+2017,poskodovanecStarost,RADOVLJICA,osebe18do55Let,8
 2017,poskodovanecStarost,RADOVLJICA,osebe55do70Let,8
 2017,poskodovanecStarost,RADOVLJICA,nad70Let,9
 2017,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2017,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2017,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2017,poskodovanecStarost,RATEČE,otroci18do55Let,6
+2017,poskodovanecStarost,RATEČE,osebe18do55Let,6
 2017,poskodovanecStarost,RATEČE,osebe55do70Let,1
 2017,poskodovanecStarost,RATEČE,nad70Let,1
 2017,poskodovanecStarost,RATEČE,niPodatka,1
 2017,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2017,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,1
-2017,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,13
+2017,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,13
 2017,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,5
 2017,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2017,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2017,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2017,poskodovanecStarost,TOLMIN,otroci10do18Let,0
-2017,poskodovanecStarost,TOLMIN,otroci18do55Let,62
+2017,poskodovanecStarost,TOLMIN,osebe18do55Let,62
 2017,poskodovanecStarost,TOLMIN,osebe55do70Let,28
 2017,poskodovanecStarost,TOLMIN,nad70Let,1
 2017,poskodovanecStarost,TOLMIN,niPodatka,8
 2017,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2017,poskodovanecStarost,TRŽIČ,otroci10do18Let,1
-2017,poskodovanecStarost,TRŽIČ,otroci18do55Let,35
+2017,poskodovanecStarost,TRŽIČ,osebe18do55Let,35
 2017,poskodovanecStarost,TRŽIČ,osebe55do70Let,3
 2017,poskodovanecStarost,TRŽIČ,nad70Let,3
 2017,poskodovanecStarost,TRŽIČ,niPodatka,2
@@ -8947,109 +8947,109 @@ year,section,unit,metric,value
 2018,dejavnost,TRŽIČ,drugo,3
 2018,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2018,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2018,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2018,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2018,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2018,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2018,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2018,poskodovanecStarost,BOHINJ,otrociPod10Let,1
 2018,poskodovanecStarost,BOHINJ,otroci10do18Let,1
-2018,poskodovanecStarost,BOHINJ,otroci18do55Let,69
+2018,poskodovanecStarost,BOHINJ,osebe18do55Let,69
 2018,poskodovanecStarost,BOHINJ,osebe55do70Let,15
 2018,poskodovanecStarost,BOHINJ,nad70Let,6
 2018,poskodovanecStarost,BOHINJ,niPodatka,6
 2018,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2018,poskodovanecStarost,BOVEC,otroci10do18Let,1
-2018,poskodovanecStarost,BOVEC,otroci18do55Let,31
+2018,poskodovanecStarost,BOVEC,osebe18do55Let,31
 2018,poskodovanecStarost,BOVEC,osebe55do70Let,3
 2018,poskodovanecStarost,BOVEC,nad70Let,1
 2018,poskodovanecStarost,BOVEC,niPodatka,16
 2018,poskodovanecStarost,CELJE,otrociPod10Let,5
 2018,poskodovanecStarost,CELJE,otroci10do18Let,1
-2018,poskodovanecStarost,CELJE,otroci18do55Let,14
+2018,poskodovanecStarost,CELJE,osebe18do55Let,14
 2018,poskodovanecStarost,CELJE,osebe55do70Let,4
 2018,poskodovanecStarost,CELJE,nad70Let,1
 2018,poskodovanecStarost,CELJE,niPodatka,12
 2018,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2018,poskodovanecStarost,JESENICE,otroci10do18Let,1
-2018,poskodovanecStarost,JESENICE,otroci18do55Let,2
+2018,poskodovanecStarost,JESENICE,osebe18do55Let,2
 2018,poskodovanecStarost,JESENICE,osebe55do70Let,2
 2018,poskodovanecStarost,JESENICE,nad70Let,1
 2018,poskodovanecStarost,JESENICE,niPodatka,1
 2018,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2018,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2018,poskodovanecStarost,JEZERSKO,otroci18do55Let,6
+2018,poskodovanecStarost,JEZERSKO,osebe18do55Let,6
 2018,poskodovanecStarost,JEZERSKO,osebe55do70Let,0
 2018,poskodovanecStarost,JEZERSKO,nad70Let,1
 2018,poskodovanecStarost,JEZERSKO,niPodatka,4
 2018,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2018,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2018,poskodovanecStarost,KAMNIK,otroci18do55Let,18
+2018,poskodovanecStarost,KAMNIK,osebe18do55Let,18
 2018,poskodovanecStarost,KAMNIK,osebe55do70Let,8
 2018,poskodovanecStarost,KAMNIK,nad70Let,3
 2018,poskodovanecStarost,KAMNIK,niPodatka,6
 2018,poskodovanecStarost,KOROŠKE,otrociPod10Let,1
 2018,poskodovanecStarost,KOROŠKE,otroci10do18Let,2
-2018,poskodovanecStarost,KOROŠKE,otroci18do55Let,5
+2018,poskodovanecStarost,KOROŠKE,osebe18do55Let,5
 2018,poskodovanecStarost,KOROŠKE,osebe55do70Let,4
 2018,poskodovanecStarost,KOROŠKE,nad70Let,1
 2018,poskodovanecStarost,KOROŠKE,niPodatka,4
 2018,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2018,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2018,poskodovanecStarost,KRANJ,otroci18do55Let,5
+2018,poskodovanecStarost,KRANJ,osebe18do55Let,5
 2018,poskodovanecStarost,KRANJ,osebe55do70Let,1
 2018,poskodovanecStarost,KRANJ,nad70Let,1
 2018,poskodovanecStarost,KRANJ,niPodatka,21
 2018,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2018,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,4
-2018,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,28
+2018,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,28
 2018,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,3
 2018,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2018,poskodovanecStarost,KRANJSKA GORA,niPodatka,5
 2018,poskodovanecStarost,LJUBLJANA,otrociPod10Let,1
 2018,poskodovanecStarost,LJUBLJANA,otroci10do18Let,1
-2018,poskodovanecStarost,LJUBLJANA,otroci18do55Let,16
+2018,poskodovanecStarost,LJUBLJANA,osebe18do55Let,16
 2018,poskodovanecStarost,LJUBLJANA,osebe55do70Let,4
 2018,poskodovanecStarost,LJUBLJANA,nad70Let,4
 2018,poskodovanecStarost,LJUBLJANA,niPodatka,13
 2018,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2018,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2018,poskodovanecStarost,MARIBOR,otroci18do55Let,4
+2018,poskodovanecStarost,MARIBOR,osebe18do55Let,4
 2018,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2018,poskodovanecStarost,MARIBOR,nad70Let,2
 2018,poskodovanecStarost,MARIBOR,niPodatka,1
 2018,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2018,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2018,poskodovanecStarost,MOJSTRANA,otroci18do55Let,35
+2018,poskodovanecStarost,MOJSTRANA,osebe18do55Let,35
 2018,poskodovanecStarost,MOJSTRANA,osebe55do70Let,11
 2018,poskodovanecStarost,MOJSTRANA,nad70Let,3
 2018,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2018,poskodovanecStarost,RADOVLJICA,otrociPod10Let,1
 2018,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2018,poskodovanecStarost,RADOVLJICA,otroci18do55Let,16
+2018,poskodovanecStarost,RADOVLJICA,osebe18do55Let,16
 2018,poskodovanecStarost,RADOVLJICA,osebe55do70Let,9
 2018,poskodovanecStarost,RADOVLJICA,nad70Let,5
 2018,poskodovanecStarost,RADOVLJICA,niPodatka,4
 2018,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2018,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2018,poskodovanecStarost,RATEČE,otroci18do55Let,1
+2018,poskodovanecStarost,RATEČE,osebe18do55Let,1
 2018,poskodovanecStarost,RATEČE,osebe55do70Let,2
 2018,poskodovanecStarost,RATEČE,nad70Let,0
 2018,poskodovanecStarost,RATEČE,niPodatka,6
 2018,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2018,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2018,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,7
+2018,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,7
 2018,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,3
 2018,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2018,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2018,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2018,poskodovanecStarost,TOLMIN,otroci10do18Let,2
-2018,poskodovanecStarost,TOLMIN,otroci18do55Let,40
+2018,poskodovanecStarost,TOLMIN,osebe18do55Let,40
 2018,poskodovanecStarost,TOLMIN,osebe55do70Let,17
 2018,poskodovanecStarost,TOLMIN,nad70Let,3
 2018,poskodovanecStarost,TOLMIN,niPodatka,4
 2018,poskodovanecStarost,TRŽIČ,otrociPod10Let,1
 2018,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2018,poskodovanecStarost,TRŽIČ,otroci18do55Let,12
+2018,poskodovanecStarost,TRŽIČ,osebe18do55Let,12
 2018,poskodovanecStarost,TRŽIČ,osebe55do70Let,8
 2018,poskodovanecStarost,TRŽIČ,nad70Let,7
 2018,poskodovanecStarost,TRŽIČ,niPodatka,2
@@ -9646,109 +9646,109 @@ year,section,unit,metric,value
 2019,dejavnost,TRŽIČ,drugo,3
 2019,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2019,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2019,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2019,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2019,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2019,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2019,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2019,poskodovanecStarost,BOHINJ,otrociPod10Let,3
 2019,poskodovanecStarost,BOHINJ,otroci10do18Let,10
-2019,poskodovanecStarost,BOHINJ,otroci18do55Let,80
+2019,poskodovanecStarost,BOHINJ,osebe18do55Let,80
 2019,poskodovanecStarost,BOHINJ,osebe55do70Let,26
 2019,poskodovanecStarost,BOHINJ,nad70Let,6
 2019,poskodovanecStarost,BOHINJ,niPodatka,10
 2019,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2019,poskodovanecStarost,BOVEC,otroci10do18Let,5
-2019,poskodovanecStarost,BOVEC,otroci18do55Let,41
+2019,poskodovanecStarost,BOVEC,osebe18do55Let,41
 2019,poskodovanecStarost,BOVEC,osebe55do70Let,3
 2019,poskodovanecStarost,BOVEC,nad70Let,6
 2019,poskodovanecStarost,BOVEC,niPodatka,13
 2019,poskodovanecStarost,CELJE,otrociPod10Let,0
 2019,poskodovanecStarost,CELJE,otroci10do18Let,2
-2019,poskodovanecStarost,CELJE,otroci18do55Let,10
+2019,poskodovanecStarost,CELJE,osebe18do55Let,10
 2019,poskodovanecStarost,CELJE,osebe55do70Let,1
 2019,poskodovanecStarost,CELJE,nad70Let,0
 2019,poskodovanecStarost,CELJE,niPodatka,15
 2019,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2019,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2019,poskodovanecStarost,JESENICE,otroci18do55Let,1
+2019,poskodovanecStarost,JESENICE,osebe18do55Let,1
 2019,poskodovanecStarost,JESENICE,osebe55do70Let,4
 2019,poskodovanecStarost,JESENICE,nad70Let,0
 2019,poskodovanecStarost,JESENICE,niPodatka,0
 2019,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2019,poskodovanecStarost,JEZERSKO,otroci10do18Let,1
-2019,poskodovanecStarost,JEZERSKO,otroci18do55Let,4
+2019,poskodovanecStarost,JEZERSKO,osebe18do55Let,4
 2019,poskodovanecStarost,JEZERSKO,osebe55do70Let,1
 2019,poskodovanecStarost,JEZERSKO,nad70Let,0
 2019,poskodovanecStarost,JEZERSKO,niPodatka,11
 2019,poskodovanecStarost,KAMNIK,otrociPod10Let,6
 2019,poskodovanecStarost,KAMNIK,otroci10do18Let,1
-2019,poskodovanecStarost,KAMNIK,otroci18do55Let,13
+2019,poskodovanecStarost,KAMNIK,osebe18do55Let,13
 2019,poskodovanecStarost,KAMNIK,osebe55do70Let,1
 2019,poskodovanecStarost,KAMNIK,nad70Let,2
 2019,poskodovanecStarost,KAMNIK,niPodatka,20
 2019,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2019,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2019,poskodovanecStarost,KOROŠKE,otroci18do55Let,2
+2019,poskodovanecStarost,KOROŠKE,osebe18do55Let,2
 2019,poskodovanecStarost,KOROŠKE,osebe55do70Let,1
 2019,poskodovanecStarost,KOROŠKE,nad70Let,2
 2019,poskodovanecStarost,KOROŠKE,niPodatka,6
 2019,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2019,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2019,poskodovanecStarost,KRANJ,otroci18do55Let,9
+2019,poskodovanecStarost,KRANJ,osebe18do55Let,9
 2019,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2019,poskodovanecStarost,KRANJ,nad70Let,1
 2019,poskodovanecStarost,KRANJ,niPodatka,16
 2019,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,2
 2019,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,1
-2019,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,36
+2019,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,36
 2019,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,7
 2019,poskodovanecStarost,KRANJSKA GORA,nad70Let,2
 2019,poskodovanecStarost,KRANJSKA GORA,niPodatka,3
 2019,poskodovanecStarost,LJUBLJANA,otrociPod10Let,3
 2019,poskodovanecStarost,LJUBLJANA,otroci10do18Let,0
-2019,poskodovanecStarost,LJUBLJANA,otroci18do55Let,16
+2019,poskodovanecStarost,LJUBLJANA,osebe18do55Let,16
 2019,poskodovanecStarost,LJUBLJANA,osebe55do70Let,7
 2019,poskodovanecStarost,LJUBLJANA,nad70Let,1
 2019,poskodovanecStarost,LJUBLJANA,niPodatka,10
 2019,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2019,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2019,poskodovanecStarost,MARIBOR,otroci18do55Let,6
+2019,poskodovanecStarost,MARIBOR,osebe18do55Let,6
 2019,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2019,poskodovanecStarost,MARIBOR,nad70Let,0
 2019,poskodovanecStarost,MARIBOR,niPodatka,5
 2019,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2019,poskodovanecStarost,MOJSTRANA,otroci10do18Let,2
-2019,poskodovanecStarost,MOJSTRANA,otroci18do55Let,35
+2019,poskodovanecStarost,MOJSTRANA,osebe18do55Let,35
 2019,poskodovanecStarost,MOJSTRANA,osebe55do70Let,10
 2019,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2019,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2019,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2019,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2019,poskodovanecStarost,RADOVLJICA,otroci18do55Let,25
+2019,poskodovanecStarost,RADOVLJICA,osebe18do55Let,25
 2019,poskodovanecStarost,RADOVLJICA,osebe55do70Let,4
 2019,poskodovanecStarost,RADOVLJICA,nad70Let,4
 2019,poskodovanecStarost,RADOVLJICA,niPodatka,7
 2019,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2019,poskodovanecStarost,RATEČE,otroci10do18Let,3
-2019,poskodovanecStarost,RATEČE,otroci18do55Let,3
+2019,poskodovanecStarost,RATEČE,osebe18do55Let,3
 2019,poskodovanecStarost,RATEČE,osebe55do70Let,3
 2019,poskodovanecStarost,RATEČE,nad70Let,0
 2019,poskodovanecStarost,RATEČE,niPodatka,5
 2019,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2019,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2019,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,4
+2019,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,4
 2019,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,3
 2019,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2019,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2019,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2019,poskodovanecStarost,TOLMIN,otroci10do18Let,4
-2019,poskodovanecStarost,TOLMIN,otroci18do55Let,56
+2019,poskodovanecStarost,TOLMIN,osebe18do55Let,56
 2019,poskodovanecStarost,TOLMIN,osebe55do70Let,20
 2019,poskodovanecStarost,TOLMIN,nad70Let,5
 2019,poskodovanecStarost,TOLMIN,niPodatka,2
 2019,poskodovanecStarost,TRŽIČ,otrociPod10Let,1
 2019,poskodovanecStarost,TRŽIČ,otroci10do18Let,3
-2019,poskodovanecStarost,TRŽIČ,otroci18do55Let,16
+2019,poskodovanecStarost,TRŽIČ,osebe18do55Let,16
 2019,poskodovanecStarost,TRŽIČ,osebe55do70Let,11
 2019,poskodovanecStarost,TRŽIČ,nad70Let,3
 2019,poskodovanecStarost,TRŽIČ,niPodatka,1
@@ -10345,109 +10345,109 @@ year,section,unit,metric,value
 2020,dejavnost,TRŽIČ,drugo,4
 2020,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2020,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2020,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2020,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2020,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2020,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2020,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2020,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2020,poskodovanecStarost,BOHINJ,otroci10do18Let,6
-2020,poskodovanecStarost,BOHINJ,otroci18do55Let,50
+2020,poskodovanecStarost,BOHINJ,osebe18do55Let,50
 2020,poskodovanecStarost,BOHINJ,osebe55do70Let,5
 2020,poskodovanecStarost,BOHINJ,nad70Let,2
 2020,poskodovanecStarost,BOHINJ,niPodatka,4
 2020,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2020,poskodovanecStarost,BOVEC,otroci10do18Let,1
-2020,poskodovanecStarost,BOVEC,otroci18do55Let,27
+2020,poskodovanecStarost,BOVEC,osebe18do55Let,27
 2020,poskodovanecStarost,BOVEC,osebe55do70Let,13
 2020,poskodovanecStarost,BOVEC,nad70Let,3
 2020,poskodovanecStarost,BOVEC,niPodatka,16
 2020,poskodovanecStarost,CELJE,otrociPod10Let,0
 2020,poskodovanecStarost,CELJE,otroci10do18Let,0
-2020,poskodovanecStarost,CELJE,otroci18do55Let,7
+2020,poskodovanecStarost,CELJE,osebe18do55Let,7
 2020,poskodovanecStarost,CELJE,osebe55do70Let,1
 2020,poskodovanecStarost,CELJE,nad70Let,1
 2020,poskodovanecStarost,CELJE,niPodatka,2
 2020,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2020,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2020,poskodovanecStarost,JESENICE,otroci18do55Let,1
+2020,poskodovanecStarost,JESENICE,osebe18do55Let,1
 2020,poskodovanecStarost,JESENICE,osebe55do70Let,6
 2020,poskodovanecStarost,JESENICE,nad70Let,3
 2020,poskodovanecStarost,JESENICE,niPodatka,0
 2020,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2020,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2020,poskodovanecStarost,JEZERSKO,otroci18do55Let,0
+2020,poskodovanecStarost,JEZERSKO,osebe18do55Let,0
 2020,poskodovanecStarost,JEZERSKO,osebe55do70Let,2
 2020,poskodovanecStarost,JEZERSKO,nad70Let,0
 2020,poskodovanecStarost,JEZERSKO,niPodatka,14
 2020,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2020,poskodovanecStarost,KAMNIK,otroci10do18Let,1
-2020,poskodovanecStarost,KAMNIK,otroci18do55Let,22
+2020,poskodovanecStarost,KAMNIK,osebe18do55Let,22
 2020,poskodovanecStarost,KAMNIK,osebe55do70Let,5
 2020,poskodovanecStarost,KAMNIK,nad70Let,3
 2020,poskodovanecStarost,KAMNIK,niPodatka,12
 2020,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2020,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2020,poskodovanecStarost,KOROŠKE,otroci18do55Let,2
+2020,poskodovanecStarost,KOROŠKE,osebe18do55Let,2
 2020,poskodovanecStarost,KOROŠKE,osebe55do70Let,0
 2020,poskodovanecStarost,KOROŠKE,nad70Let,0
 2020,poskodovanecStarost,KOROŠKE,niPodatka,4
 2020,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2020,poskodovanecStarost,KRANJ,otroci10do18Let,1
-2020,poskodovanecStarost,KRANJ,otroci18do55Let,4
+2020,poskodovanecStarost,KRANJ,osebe18do55Let,4
 2020,poskodovanecStarost,KRANJ,osebe55do70Let,0
 2020,poskodovanecStarost,KRANJ,nad70Let,0
 2020,poskodovanecStarost,KRANJ,niPodatka,8
 2020,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2020,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,6
-2020,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,30
+2020,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,30
 2020,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,0
 2020,poskodovanecStarost,KRANJSKA GORA,nad70Let,4
 2020,poskodovanecStarost,KRANJSKA GORA,niPodatka,3
 2020,poskodovanecStarost,LJUBLJANA,otrociPod10Let,3
 2020,poskodovanecStarost,LJUBLJANA,otroci10do18Let,1
-2020,poskodovanecStarost,LJUBLJANA,otroci18do55Let,18
+2020,poskodovanecStarost,LJUBLJANA,osebe18do55Let,18
 2020,poskodovanecStarost,LJUBLJANA,osebe55do70Let,11
 2020,poskodovanecStarost,LJUBLJANA,nad70Let,2
 2020,poskodovanecStarost,LJUBLJANA,niPodatka,5
 2020,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2020,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2020,poskodovanecStarost,MARIBOR,otroci18do55Let,1
+2020,poskodovanecStarost,MARIBOR,osebe18do55Let,1
 2020,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2020,poskodovanecStarost,MARIBOR,nad70Let,0
 2020,poskodovanecStarost,MARIBOR,niPodatka,4
 2020,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2020,poskodovanecStarost,MOJSTRANA,otroci10do18Let,0
-2020,poskodovanecStarost,MOJSTRANA,otroci18do55Let,21
+2020,poskodovanecStarost,MOJSTRANA,osebe18do55Let,21
 2020,poskodovanecStarost,MOJSTRANA,osebe55do70Let,7
 2020,poskodovanecStarost,MOJSTRANA,nad70Let,2
 2020,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2020,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2020,poskodovanecStarost,RADOVLJICA,otroci10do18Let,2
-2020,poskodovanecStarost,RADOVLJICA,otroci18do55Let,19
+2020,poskodovanecStarost,RADOVLJICA,osebe18do55Let,19
 2020,poskodovanecStarost,RADOVLJICA,osebe55do70Let,9
 2020,poskodovanecStarost,RADOVLJICA,nad70Let,10
 2020,poskodovanecStarost,RADOVLJICA,niPodatka,2
 2020,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2020,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2020,poskodovanecStarost,RATEČE,otroci18do55Let,2
+2020,poskodovanecStarost,RATEČE,osebe18do55Let,2
 2020,poskodovanecStarost,RATEČE,osebe55do70Let,1
 2020,poskodovanecStarost,RATEČE,nad70Let,0
 2020,poskodovanecStarost,RATEČE,niPodatka,3
 2020,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2020,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,2
-2020,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,5
+2020,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,5
 2020,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,4
 2020,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,1
 2020,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,0
 2020,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2020,poskodovanecStarost,TOLMIN,otroci10do18Let,2
-2020,poskodovanecStarost,TOLMIN,otroci18do55Let,42
+2020,poskodovanecStarost,TOLMIN,osebe18do55Let,42
 2020,poskodovanecStarost,TOLMIN,osebe55do70Let,16
 2020,poskodovanecStarost,TOLMIN,nad70Let,3
 2020,poskodovanecStarost,TOLMIN,niPodatka,4
 2020,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2020,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2020,poskodovanecStarost,TRŽIČ,otroci18do55Let,10
+2020,poskodovanecStarost,TRŽIČ,osebe18do55Let,10
 2020,poskodovanecStarost,TRŽIČ,osebe55do70Let,6
 2020,poskodovanecStarost,TRŽIČ,nad70Let,0
 2020,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -11044,109 +11044,109 @@ year,section,unit,metric,value
 2021,dejavnost,TRŽIČ,drugo,2
 2021,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2021,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2021,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2021,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2021,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2021,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2021,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2021,poskodovanecStarost,BOHINJ,otrociPod10Let,1
 2021,poskodovanecStarost,BOHINJ,otroci10do18Let,4
-2021,poskodovanecStarost,BOHINJ,otroci18do55Let,44
+2021,poskodovanecStarost,BOHINJ,osebe18do55Let,44
 2021,poskodovanecStarost,BOHINJ,osebe55do70Let,9
 2021,poskodovanecStarost,BOHINJ,nad70Let,6
 2021,poskodovanecStarost,BOHINJ,niPodatka,16
 2021,poskodovanecStarost,BOVEC,otrociPod10Let,0
 2021,poskodovanecStarost,BOVEC,otroci10do18Let,7
-2021,poskodovanecStarost,BOVEC,otroci18do55Let,30
+2021,poskodovanecStarost,BOVEC,osebe18do55Let,30
 2021,poskodovanecStarost,BOVEC,osebe55do70Let,14
 2021,poskodovanecStarost,BOVEC,nad70Let,3
 2021,poskodovanecStarost,BOVEC,niPodatka,5
 2021,poskodovanecStarost,CELJE,otrociPod10Let,0
 2021,poskodovanecStarost,CELJE,otroci10do18Let,2
-2021,poskodovanecStarost,CELJE,otroci18do55Let,6
+2021,poskodovanecStarost,CELJE,osebe18do55Let,6
 2021,poskodovanecStarost,CELJE,osebe55do70Let,11
 2021,poskodovanecStarost,CELJE,nad70Let,1
 2021,poskodovanecStarost,CELJE,niPodatka,4
 2021,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2021,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2021,poskodovanecStarost,JESENICE,otroci18do55Let,8
+2021,poskodovanecStarost,JESENICE,osebe18do55Let,8
 2021,poskodovanecStarost,JESENICE,osebe55do70Let,0
 2021,poskodovanecStarost,JESENICE,nad70Let,3
 2021,poskodovanecStarost,JESENICE,niPodatka,0
 2021,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2021,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2021,poskodovanecStarost,JEZERSKO,otroci18do55Let,1
+2021,poskodovanecStarost,JEZERSKO,osebe18do55Let,1
 2021,poskodovanecStarost,JEZERSKO,osebe55do70Let,0
 2021,poskodovanecStarost,JEZERSKO,nad70Let,1
 2021,poskodovanecStarost,JEZERSKO,niPodatka,14
 2021,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2021,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2021,poskodovanecStarost,KAMNIK,otroci18do55Let,19
+2021,poskodovanecStarost,KAMNIK,osebe18do55Let,19
 2021,poskodovanecStarost,KAMNIK,osebe55do70Let,6
 2021,poskodovanecStarost,KAMNIK,nad70Let,1
 2021,poskodovanecStarost,KAMNIK,niPodatka,21
 2021,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2021,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2021,poskodovanecStarost,KOROŠKE,otroci18do55Let,3
+2021,poskodovanecStarost,KOROŠKE,osebe18do55Let,3
 2021,poskodovanecStarost,KOROŠKE,osebe55do70Let,0
 2021,poskodovanecStarost,KOROŠKE,nad70Let,0
 2021,poskodovanecStarost,KOROŠKE,niPodatka,2
 2021,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2021,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2021,poskodovanecStarost,KRANJ,otroci18do55Let,9
+2021,poskodovanecStarost,KRANJ,osebe18do55Let,9
 2021,poskodovanecStarost,KRANJ,osebe55do70Let,3
 2021,poskodovanecStarost,KRANJ,nad70Let,0
 2021,poskodovanecStarost,KRANJ,niPodatka,13
 2021,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,3
 2021,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,11
-2021,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,38
+2021,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,38
 2021,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,8
 2021,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2021,poskodovanecStarost,KRANJSKA GORA,niPodatka,2
 2021,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2021,poskodovanecStarost,LJUBLJANA,otroci10do18Let,1
-2021,poskodovanecStarost,LJUBLJANA,otroci18do55Let,19
+2021,poskodovanecStarost,LJUBLJANA,osebe18do55Let,19
 2021,poskodovanecStarost,LJUBLJANA,osebe55do70Let,6
 2021,poskodovanecStarost,LJUBLJANA,nad70Let,9
 2021,poskodovanecStarost,LJUBLJANA,niPodatka,9
 2021,poskodovanecStarost,MARIBOR,otrociPod10Let,1
 2021,poskodovanecStarost,MARIBOR,otroci10do18Let,1
-2021,poskodovanecStarost,MARIBOR,otroci18do55Let,4
+2021,poskodovanecStarost,MARIBOR,osebe18do55Let,4
 2021,poskodovanecStarost,MARIBOR,osebe55do70Let,0
 2021,poskodovanecStarost,MARIBOR,nad70Let,1
 2021,poskodovanecStarost,MARIBOR,niPodatka,9
 2021,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2021,poskodovanecStarost,MOJSTRANA,otroci10do18Let,1
-2021,poskodovanecStarost,MOJSTRANA,otroci18do55Let,29
+2021,poskodovanecStarost,MOJSTRANA,osebe18do55Let,29
 2021,poskodovanecStarost,MOJSTRANA,osebe55do70Let,8
 2021,poskodovanecStarost,MOJSTRANA,nad70Let,5
 2021,poskodovanecStarost,MOJSTRANA,niPodatka,0
 2021,poskodovanecStarost,RADOVLJICA,otrociPod10Let,0
 2021,poskodovanecStarost,RADOVLJICA,otroci10do18Let,4
-2021,poskodovanecStarost,RADOVLJICA,otroci18do55Let,25
+2021,poskodovanecStarost,RADOVLJICA,osebe18do55Let,25
 2021,poskodovanecStarost,RADOVLJICA,osebe55do70Let,7
 2021,poskodovanecStarost,RADOVLJICA,nad70Let,4
 2021,poskodovanecStarost,RADOVLJICA,niPodatka,2
 2021,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2021,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2021,poskodovanecStarost,RATEČE,otroci18do55Let,8
+2021,poskodovanecStarost,RATEČE,osebe18do55Let,8
 2021,poskodovanecStarost,RATEČE,osebe55do70Let,1
 2021,poskodovanecStarost,RATEČE,nad70Let,0
 2021,poskodovanecStarost,RATEČE,niPodatka,3
 2021,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2021,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,1
-2021,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,7
+2021,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,7
 2021,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,8
 2021,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,6
 2021,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,1
 2021,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2021,poskodovanecStarost,TOLMIN,otroci10do18Let,2
-2021,poskodovanecStarost,TOLMIN,otroci18do55Let,48
+2021,poskodovanecStarost,TOLMIN,osebe18do55Let,48
 2021,poskodovanecStarost,TOLMIN,osebe55do70Let,19
 2021,poskodovanecStarost,TOLMIN,nad70Let,6
 2021,poskodovanecStarost,TOLMIN,niPodatka,1
 2021,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2021,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2021,poskodovanecStarost,TRŽIČ,otroci18do55Let,29
+2021,poskodovanecStarost,TRŽIČ,osebe18do55Let,29
 2021,poskodovanecStarost,TRŽIČ,osebe55do70Let,14
 2021,poskodovanecStarost,TRŽIČ,nad70Let,1
 2021,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -11743,109 +11743,109 @@ year,section,unit,metric,value
 2022,dejavnost,TRŽIČ,drugo,7
 2022,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2022,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2022,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2022,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2022,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2022,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2022,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2022,poskodovanecStarost,BOHINJ,otrociPod10Let,5
 2022,poskodovanecStarost,BOHINJ,otroci10do18Let,8
-2022,poskodovanecStarost,BOHINJ,otroci18do55Let,56
+2022,poskodovanecStarost,BOHINJ,osebe18do55Let,56
 2022,poskodovanecStarost,BOHINJ,osebe55do70Let,21
 2022,poskodovanecStarost,BOHINJ,nad70Let,11
 2022,poskodovanecStarost,BOHINJ,niPodatka,10
 2022,poskodovanecStarost,BOVEC,otrociPod10Let,2
 2022,poskodovanecStarost,BOVEC,otroci10do18Let,13
-2022,poskodovanecStarost,BOVEC,otroci18do55Let,65
+2022,poskodovanecStarost,BOVEC,osebe18do55Let,65
 2022,poskodovanecStarost,BOVEC,osebe55do70Let,5
 2022,poskodovanecStarost,BOVEC,nad70Let,2
 2022,poskodovanecStarost,BOVEC,niPodatka,8
 2022,poskodovanecStarost,CELJE,otrociPod10Let,0
 2022,poskodovanecStarost,CELJE,otroci10do18Let,0
-2022,poskodovanecStarost,CELJE,otroci18do55Let,5
+2022,poskodovanecStarost,CELJE,osebe18do55Let,5
 2022,poskodovanecStarost,CELJE,osebe55do70Let,2
 2022,poskodovanecStarost,CELJE,nad70Let,3
 2022,poskodovanecStarost,CELJE,niPodatka,7
 2022,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2022,poskodovanecStarost,JESENICE,otroci10do18Let,0
-2022,poskodovanecStarost,JESENICE,otroci18do55Let,14
+2022,poskodovanecStarost,JESENICE,osebe18do55Let,14
 2022,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2022,poskodovanecStarost,JESENICE,nad70Let,1
 2022,poskodovanecStarost,JESENICE,niPodatka,7
 2022,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2022,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2022,poskodovanecStarost,JEZERSKO,otroci18do55Let,0
+2022,poskodovanecStarost,JEZERSKO,osebe18do55Let,0
 2022,poskodovanecStarost,JEZERSKO,osebe55do70Let,0
 2022,poskodovanecStarost,JEZERSKO,nad70Let,0
 2022,poskodovanecStarost,JEZERSKO,niPodatka,16
 2022,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2022,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2022,poskodovanecStarost,KAMNIK,otroci18do55Let,18
+2022,poskodovanecStarost,KAMNIK,osebe18do55Let,18
 2022,poskodovanecStarost,KAMNIK,osebe55do70Let,9
 2022,poskodovanecStarost,KAMNIK,nad70Let,4
 2022,poskodovanecStarost,KAMNIK,niPodatka,103
 2022,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2022,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2022,poskodovanecStarost,KOROŠKE,otroci18do55Let,4
+2022,poskodovanecStarost,KOROŠKE,osebe18do55Let,4
 2022,poskodovanecStarost,KOROŠKE,osebe55do70Let,2
 2022,poskodovanecStarost,KOROŠKE,nad70Let,0
 2022,poskodovanecStarost,KOROŠKE,niPodatka,6
 2022,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2022,poskodovanecStarost,KRANJ,otroci10do18Let,1
-2022,poskodovanecStarost,KRANJ,otroci18do55Let,12
+2022,poskodovanecStarost,KRANJ,osebe18do55Let,12
 2022,poskodovanecStarost,KRANJ,osebe55do70Let,3
 2022,poskodovanecStarost,KRANJ,nad70Let,0
 2022,poskodovanecStarost,KRANJ,niPodatka,26
 2022,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,3
 2022,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,12
-2022,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,45
+2022,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,45
 2022,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,7
 2022,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2022,poskodovanecStarost,KRANJSKA GORA,niPodatka,0
 2022,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2022,poskodovanecStarost,LJUBLJANA,otroci10do18Let,3
-2022,poskodovanecStarost,LJUBLJANA,otroci18do55Let,21
+2022,poskodovanecStarost,LJUBLJANA,osebe18do55Let,21
 2022,poskodovanecStarost,LJUBLJANA,osebe55do70Let,11
 2022,poskodovanecStarost,LJUBLJANA,nad70Let,6
 2022,poskodovanecStarost,LJUBLJANA,niPodatka,9
 2022,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2022,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2022,poskodovanecStarost,MARIBOR,otroci18do55Let,0
+2022,poskodovanecStarost,MARIBOR,osebe18do55Let,0
 2022,poskodovanecStarost,MARIBOR,osebe55do70Let,1
 2022,poskodovanecStarost,MARIBOR,nad70Let,0
 2022,poskodovanecStarost,MARIBOR,niPodatka,7
 2022,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2022,poskodovanecStarost,MOJSTRANA,otroci10do18Let,2
-2022,poskodovanecStarost,MOJSTRANA,otroci18do55Let,52
+2022,poskodovanecStarost,MOJSTRANA,osebe18do55Let,52
 2022,poskodovanecStarost,MOJSTRANA,osebe55do70Let,8
 2022,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2022,poskodovanecStarost,MOJSTRANA,niPodatka,4
 2022,poskodovanecStarost,RADOVLJICA,otrociPod10Let,2
 2022,poskodovanecStarost,RADOVLJICA,otroci10do18Let,2
-2022,poskodovanecStarost,RADOVLJICA,otroci18do55Let,29
+2022,poskodovanecStarost,RADOVLJICA,osebe18do55Let,29
 2022,poskodovanecStarost,RADOVLJICA,osebe55do70Let,8
 2022,poskodovanecStarost,RADOVLJICA,nad70Let,7
 2022,poskodovanecStarost,RADOVLJICA,niPodatka,1
 2022,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2022,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2022,poskodovanecStarost,RATEČE,otroci18do55Let,8
+2022,poskodovanecStarost,RATEČE,osebe18do55Let,8
 2022,poskodovanecStarost,RATEČE,osebe55do70Let,2
 2022,poskodovanecStarost,RATEČE,nad70Let,2
 2022,poskodovanecStarost,RATEČE,niPodatka,0
 2022,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2022,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,4
-2022,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,4
+2022,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,4
 2022,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,7
 2022,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,6
 2022,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,6
 2022,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2022,poskodovanecStarost,TOLMIN,otroci10do18Let,3
-2022,poskodovanecStarost,TOLMIN,otroci18do55Let,50
+2022,poskodovanecStarost,TOLMIN,osebe18do55Let,50
 2022,poskodovanecStarost,TOLMIN,osebe55do70Let,22
 2022,poskodovanecStarost,TOLMIN,nad70Let,6
 2022,poskodovanecStarost,TOLMIN,niPodatka,1
 2022,poskodovanecStarost,TRŽIČ,otrociPod10Let,2
 2022,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2022,poskodovanecStarost,TRŽIČ,otroci18do55Let,18
+2022,poskodovanecStarost,TRŽIČ,osebe18do55Let,18
 2022,poskodovanecStarost,TRŽIČ,osebe55do70Let,5
 2022,poskodovanecStarost,TRŽIČ,nad70Let,3
 2022,poskodovanecStarost,TRŽIČ,niPodatka,3
@@ -12442,109 +12442,109 @@ year,section,unit,metric,value
 2023,dejavnost,TRŽIČ,drugo,2
 2023,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2023,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2023,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2023,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2023,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2023,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2023,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2023,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2023,poskodovanecStarost,BOHINJ,otroci10do18Let,7
-2023,poskodovanecStarost,BOHINJ,otroci18do55Let,65
+2023,poskodovanecStarost,BOHINJ,osebe18do55Let,65
 2023,poskodovanecStarost,BOHINJ,osebe55do70Let,17
 2023,poskodovanecStarost,BOHINJ,nad70Let,11
 2023,poskodovanecStarost,BOHINJ,niPodatka,7
 2023,poskodovanecStarost,BOVEC,otrociPod10Let,2
 2023,poskodovanecStarost,BOVEC,otroci10do18Let,3
-2023,poskodovanecStarost,BOVEC,otroci18do55Let,49
+2023,poskodovanecStarost,BOVEC,osebe18do55Let,49
 2023,poskodovanecStarost,BOVEC,osebe55do70Let,17
 2023,poskodovanecStarost,BOVEC,nad70Let,6
 2023,poskodovanecStarost,BOVEC,niPodatka,17
 2023,poskodovanecStarost,CELJE,otrociPod10Let,0
 2023,poskodovanecStarost,CELJE,otroci10do18Let,2
-2023,poskodovanecStarost,CELJE,otroci18do55Let,1
+2023,poskodovanecStarost,CELJE,osebe18do55Let,1
 2023,poskodovanecStarost,CELJE,osebe55do70Let,6
 2023,poskodovanecStarost,CELJE,nad70Let,0
 2023,poskodovanecStarost,CELJE,niPodatka,4
 2023,poskodovanecStarost,JESENICE,otrociPod10Let,1
 2023,poskodovanecStarost,JESENICE,otroci10do18Let,2
-2023,poskodovanecStarost,JESENICE,otroci18do55Let,5
+2023,poskodovanecStarost,JESENICE,osebe18do55Let,5
 2023,poskodovanecStarost,JESENICE,osebe55do70Let,5
 2023,poskodovanecStarost,JESENICE,nad70Let,0
 2023,poskodovanecStarost,JESENICE,niPodatka,0
 2023,poskodovanecStarost,JEZERSKO,otrociPod10Let,1
 2023,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2023,poskodovanecStarost,JEZERSKO,otroci18do55Let,5
+2023,poskodovanecStarost,JEZERSKO,osebe18do55Let,5
 2023,poskodovanecStarost,JEZERSKO,osebe55do70Let,1
 2023,poskodovanecStarost,JEZERSKO,nad70Let,0
 2023,poskodovanecStarost,JEZERSKO,niPodatka,30
 2023,poskodovanecStarost,KAMNIK,otrociPod10Let,1
 2023,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2023,poskodovanecStarost,KAMNIK,otroci18do55Let,33
+2023,poskodovanecStarost,KAMNIK,osebe18do55Let,33
 2023,poskodovanecStarost,KAMNIK,osebe55do70Let,9
 2023,poskodovanecStarost,KAMNIK,nad70Let,1
 2023,poskodovanecStarost,KAMNIK,niPodatka,9
 2023,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2023,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2023,poskodovanecStarost,KOROŠKE,otroci18do55Let,11
+2023,poskodovanecStarost,KOROŠKE,osebe18do55Let,11
 2023,poskodovanecStarost,KOROŠKE,osebe55do70Let,3
 2023,poskodovanecStarost,KOROŠKE,nad70Let,1
 2023,poskodovanecStarost,KOROŠKE,niPodatka,11
 2023,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2023,poskodovanecStarost,KRANJ,otroci10do18Let,0
-2023,poskodovanecStarost,KRANJ,otroci18do55Let,5
+2023,poskodovanecStarost,KRANJ,osebe18do55Let,5
 2023,poskodovanecStarost,KRANJ,osebe55do70Let,1
 2023,poskodovanecStarost,KRANJ,nad70Let,1
 2023,poskodovanecStarost,KRANJ,niPodatka,16
 2023,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,1
 2023,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,4
-2023,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,35
+2023,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,35
 2023,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,4
 2023,poskodovanecStarost,KRANJSKA GORA,nad70Let,0
 2023,poskodovanecStarost,KRANJSKA GORA,niPodatka,3
 2023,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2023,poskodovanecStarost,LJUBLJANA,otroci10do18Let,2
-2023,poskodovanecStarost,LJUBLJANA,otroci18do55Let,21
+2023,poskodovanecStarost,LJUBLJANA,osebe18do55Let,21
 2023,poskodovanecStarost,LJUBLJANA,osebe55do70Let,8
 2023,poskodovanecStarost,LJUBLJANA,nad70Let,9
 2023,poskodovanecStarost,LJUBLJANA,niPodatka,12
 2023,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2023,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2023,poskodovanecStarost,MARIBOR,otroci18do55Let,0
+2023,poskodovanecStarost,MARIBOR,osebe18do55Let,0
 2023,poskodovanecStarost,MARIBOR,osebe55do70Let,1
 2023,poskodovanecStarost,MARIBOR,nad70Let,0
 2023,poskodovanecStarost,MARIBOR,niPodatka,7
 2023,poskodovanecStarost,MOJSTRANA,otrociPod10Let,1
 2023,poskodovanecStarost,MOJSTRANA,otroci10do18Let,2
-2023,poskodovanecStarost,MOJSTRANA,otroci18do55Let,45
+2023,poskodovanecStarost,MOJSTRANA,osebe18do55Let,45
 2023,poskodovanecStarost,MOJSTRANA,osebe55do70Let,8
 2023,poskodovanecStarost,MOJSTRANA,nad70Let,1
 2023,poskodovanecStarost,MOJSTRANA,niPodatka,16
 2023,poskodovanecStarost,RADOVLJICA,otrociPod10Let,3
 2023,poskodovanecStarost,RADOVLJICA,otroci10do18Let,6
-2023,poskodovanecStarost,RADOVLJICA,otroci18do55Let,38
+2023,poskodovanecStarost,RADOVLJICA,osebe18do55Let,38
 2023,poskodovanecStarost,RADOVLJICA,osebe55do70Let,11
 2023,poskodovanecStarost,RADOVLJICA,nad70Let,2
 2023,poskodovanecStarost,RADOVLJICA,niPodatka,0
 2023,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2023,poskodovanecStarost,RATEČE,otroci10do18Let,0
-2023,poskodovanecStarost,RATEČE,otroci18do55Let,6
+2023,poskodovanecStarost,RATEČE,osebe18do55Let,6
 2023,poskodovanecStarost,RATEČE,osebe55do70Let,6
 2023,poskodovanecStarost,RATEČE,nad70Let,0
 2023,poskodovanecStarost,RATEČE,niPodatka,2
 2023,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2023,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2023,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,5
+2023,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,5
 2023,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,6
 2023,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2023,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,2
 2023,poskodovanecStarost,TOLMIN,otrociPod10Let,0
 2023,poskodovanecStarost,TOLMIN,otroci10do18Let,4
-2023,poskodovanecStarost,TOLMIN,otroci18do55Let,42
+2023,poskodovanecStarost,TOLMIN,osebe18do55Let,42
 2023,poskodovanecStarost,TOLMIN,osebe55do70Let,18
 2023,poskodovanecStarost,TOLMIN,nad70Let,10
 2023,poskodovanecStarost,TOLMIN,niPodatka,0
 2023,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2023,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2023,poskodovanecStarost,TRŽIČ,otroci18do55Let,19
+2023,poskodovanecStarost,TRŽIČ,osebe18do55Let,19
 2023,poskodovanecStarost,TRŽIČ,osebe55do70Let,9
 2023,poskodovanecStarost,TRŽIČ,nad70Let,1
 2023,poskodovanecStarost,TRŽIČ,niPodatka,0
@@ -13141,109 +13141,109 @@ year,section,unit,metric,value
 2024,dejavnost,TRŽIČ,drugo,3
 2024,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2024,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,0
-2024,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,0
+2024,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,0
 2024,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,0
 2024,poskodovanecStarost,AJDOVŠČINA,nad70Let,0
 2024,poskodovanecStarost,AJDOVŠČINA,niPodatka,0
 2024,poskodovanecStarost,BOHINJ,otrociPod10Let,2
 2024,poskodovanecStarost,BOHINJ,otroci10do18Let,13
-2024,poskodovanecStarost,BOHINJ,otroci18do55Let,60
+2024,poskodovanecStarost,BOHINJ,osebe18do55Let,60
 2024,poskodovanecStarost,BOHINJ,osebe55do70Let,11
 2024,poskodovanecStarost,BOHINJ,nad70Let,3
 2024,poskodovanecStarost,BOHINJ,niPodatka,13
 2024,poskodovanecStarost,BOVEC,otrociPod10Let,1
 2024,poskodovanecStarost,BOVEC,otroci10do18Let,3
-2024,poskodovanecStarost,BOVEC,otroci18do55Let,31
+2024,poskodovanecStarost,BOVEC,osebe18do55Let,31
 2024,poskodovanecStarost,BOVEC,osebe55do70Let,7
 2024,poskodovanecStarost,BOVEC,nad70Let,5
 2024,poskodovanecStarost,BOVEC,niPodatka,7
 2024,poskodovanecStarost,CELJE,otrociPod10Let,0
 2024,poskodovanecStarost,CELJE,otroci10do18Let,1
-2024,poskodovanecStarost,CELJE,otroci18do55Let,6
+2024,poskodovanecStarost,CELJE,osebe18do55Let,6
 2024,poskodovanecStarost,CELJE,osebe55do70Let,3
 2024,poskodovanecStarost,CELJE,nad70Let,1
 2024,poskodovanecStarost,CELJE,niPodatka,6
 2024,poskodovanecStarost,JESENICE,otrociPod10Let,1
 2024,poskodovanecStarost,JESENICE,otroci10do18Let,1
-2024,poskodovanecStarost,JESENICE,otroci18do55Let,5
+2024,poskodovanecStarost,JESENICE,osebe18do55Let,5
 2024,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2024,poskodovanecStarost,JESENICE,nad70Let,1
 2024,poskodovanecStarost,JESENICE,niPodatka,2
 2024,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2024,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2024,poskodovanecStarost,JEZERSKO,otroci18do55Let,2
+2024,poskodovanecStarost,JEZERSKO,osebe18do55Let,2
 2024,poskodovanecStarost,JEZERSKO,osebe55do70Let,3
 2024,poskodovanecStarost,JEZERSKO,nad70Let,2
 2024,poskodovanecStarost,JEZERSKO,niPodatka,6
 2024,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2024,poskodovanecStarost,KAMNIK,otroci10do18Let,3
-2024,poskodovanecStarost,KAMNIK,otroci18do55Let,45
+2024,poskodovanecStarost,KAMNIK,osebe18do55Let,45
 2024,poskodovanecStarost,KAMNIK,osebe55do70Let,5
 2024,poskodovanecStarost,KAMNIK,nad70Let,1
 2024,poskodovanecStarost,KAMNIK,niPodatka,10
 2024,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2024,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2024,poskodovanecStarost,KOROŠKE,otroci18do55Let,4
+2024,poskodovanecStarost,KOROŠKE,osebe18do55Let,4
 2024,poskodovanecStarost,KOROŠKE,osebe55do70Let,8
 2024,poskodovanecStarost,KOROŠKE,nad70Let,1
 2024,poskodovanecStarost,KOROŠKE,niPodatka,2
 2024,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2024,poskodovanecStarost,KRANJ,otroci10do18Let,1
-2024,poskodovanecStarost,KRANJ,otroci18do55Let,6
+2024,poskodovanecStarost,KRANJ,osebe18do55Let,6
 2024,poskodovanecStarost,KRANJ,osebe55do70Let,5
 2024,poskodovanecStarost,KRANJ,nad70Let,0
 2024,poskodovanecStarost,KRANJ,niPodatka,15
 2024,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,2
 2024,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,6
-2024,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,38
+2024,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,38
 2024,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,4
 2024,poskodovanecStarost,KRANJSKA GORA,nad70Let,1
 2024,poskodovanecStarost,KRANJSKA GORA,niPodatka,5
 2024,poskodovanecStarost,LJUBLJANA,otrociPod10Let,1
 2024,poskodovanecStarost,LJUBLJANA,otroci10do18Let,4
-2024,poskodovanecStarost,LJUBLJANA,otroci18do55Let,17
+2024,poskodovanecStarost,LJUBLJANA,osebe18do55Let,17
 2024,poskodovanecStarost,LJUBLJANA,osebe55do70Let,7
 2024,poskodovanecStarost,LJUBLJANA,nad70Let,6
 2024,poskodovanecStarost,LJUBLJANA,niPodatka,13
 2024,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2024,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2024,poskodovanecStarost,MARIBOR,otroci18do55Let,6
+2024,poskodovanecStarost,MARIBOR,osebe18do55Let,6
 2024,poskodovanecStarost,MARIBOR,osebe55do70Let,2
 2024,poskodovanecStarost,MARIBOR,nad70Let,0
 2024,poskodovanecStarost,MARIBOR,niPodatka,1
 2024,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2024,poskodovanecStarost,MOJSTRANA,otroci10do18Let,1
-2024,poskodovanecStarost,MOJSTRANA,otroci18do55Let,47
+2024,poskodovanecStarost,MOJSTRANA,osebe18do55Let,47
 2024,poskodovanecStarost,MOJSTRANA,osebe55do70Let,5
 2024,poskodovanecStarost,MOJSTRANA,nad70Let,4
 2024,poskodovanecStarost,MOJSTRANA,niPodatka,10
 2024,poskodovanecStarost,RADOVLJICA,otrociPod10Let,1
 2024,poskodovanecStarost,RADOVLJICA,otroci10do18Let,0
-2024,poskodovanecStarost,RADOVLJICA,otroci18do55Let,25
+2024,poskodovanecStarost,RADOVLJICA,osebe18do55Let,25
 2024,poskodovanecStarost,RADOVLJICA,osebe55do70Let,13
 2024,poskodovanecStarost,RADOVLJICA,nad70Let,3
 2024,poskodovanecStarost,RADOVLJICA,niPodatka,2
 2024,poskodovanecStarost,RATEČE,otrociPod10Let,1
 2024,poskodovanecStarost,RATEČE,otroci10do18Let,1
-2024,poskodovanecStarost,RATEČE,otroci18do55Let,4
+2024,poskodovanecStarost,RATEČE,osebe18do55Let,4
 2024,poskodovanecStarost,RATEČE,osebe55do70Let,2
 2024,poskodovanecStarost,RATEČE,nad70Let,0
 2024,poskodovanecStarost,RATEČE,niPodatka,1
 2024,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,0
 2024,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,0
-2024,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,4
+2024,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,4
 2024,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,1
 2024,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,2
 2024,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,5
 2024,poskodovanecStarost,TOLMIN,otrociPod10Let,1
 2024,poskodovanecStarost,TOLMIN,otroci10do18Let,4
-2024,poskodovanecStarost,TOLMIN,otroci18do55Let,54
+2024,poskodovanecStarost,TOLMIN,osebe18do55Let,54
 2024,poskodovanecStarost,TOLMIN,osebe55do70Let,17
 2024,poskodovanecStarost,TOLMIN,nad70Let,5
 2024,poskodovanecStarost,TOLMIN,niPodatka,1
 2024,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2024,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2024,poskodovanecStarost,TRŽIČ,otroci18do55Let,25
+2024,poskodovanecStarost,TRŽIČ,osebe18do55Let,25
 2024,poskodovanecStarost,TRŽIČ,osebe55do70Let,6
 2024,poskodovanecStarost,TRŽIČ,nad70Let,1
 2024,poskodovanecStarost,TRŽIČ,niPodatka,1
@@ -13843,109 +13843,109 @@ year,section,unit,metric,value
 2025,dejavnost,TRŽIČ,drugo,6
 2025,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2025,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,1
-2025,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,8
+2025,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,8
 2025,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,6
 2025,poskodovanecStarost,AJDOVŠČINA,nad70Let,3
 2025,poskodovanecStarost,AJDOVŠČINA,niPodatka,3
 2025,poskodovanecStarost,BOHINJ,otrociPod10Let,3
 2025,poskodovanecStarost,BOHINJ,otroci10do18Let,5
-2025,poskodovanecStarost,BOHINJ,otroci18do55Let,71
+2025,poskodovanecStarost,BOHINJ,osebe18do55Let,71
 2025,poskodovanecStarost,BOHINJ,osebe55do70Let,14
 2025,poskodovanecStarost,BOHINJ,nad70Let,8
 2025,poskodovanecStarost,BOHINJ,niPodatka,9
 2025,poskodovanecStarost,BOVEC,otrociPod10Let,1
 2025,poskodovanecStarost,BOVEC,otroci10do18Let,2
-2025,poskodovanecStarost,BOVEC,otroci18do55Let,47
+2025,poskodovanecStarost,BOVEC,osebe18do55Let,47
 2025,poskodovanecStarost,BOVEC,osebe55do70Let,5
 2025,poskodovanecStarost,BOVEC,nad70Let,2
 2025,poskodovanecStarost,BOVEC,niPodatka,10
 2025,poskodovanecStarost,CELJE,otrociPod10Let,1
 2025,poskodovanecStarost,CELJE,otroci10do18Let,0
-2025,poskodovanecStarost,CELJE,otroci18do55Let,8
+2025,poskodovanecStarost,CELJE,osebe18do55Let,8
 2025,poskodovanecStarost,CELJE,osebe55do70Let,1
 2025,poskodovanecStarost,CELJE,nad70Let,0
 2025,poskodovanecStarost,CELJE,niPodatka,15
 2025,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2025,poskodovanecStarost,JESENICE,otroci10do18Let,1
-2025,poskodovanecStarost,JESENICE,otroci18do55Let,11
+2025,poskodovanecStarost,JESENICE,osebe18do55Let,11
 2025,poskodovanecStarost,JESENICE,osebe55do70Let,6
 2025,poskodovanecStarost,JESENICE,nad70Let,1
 2025,poskodovanecStarost,JESENICE,niPodatka,0
 2025,poskodovanecStarost,JEZERSKO,otrociPod10Let,0
 2025,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2025,poskodovanecStarost,JEZERSKO,otroci18do55Let,2
+2025,poskodovanecStarost,JEZERSKO,osebe18do55Let,2
 2025,poskodovanecStarost,JEZERSKO,osebe55do70Let,0
 2025,poskodovanecStarost,JEZERSKO,nad70Let,0
 2025,poskodovanecStarost,JEZERSKO,niPodatka,22
 2025,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2025,poskodovanecStarost,KAMNIK,otroci10do18Let,0
-2025,poskodovanecStarost,KAMNIK,otroci18do55Let,35
+2025,poskodovanecStarost,KAMNIK,osebe18do55Let,35
 2025,poskodovanecStarost,KAMNIK,osebe55do70Let,8
 2025,poskodovanecStarost,KAMNIK,nad70Let,0
 2025,poskodovanecStarost,KAMNIK,niPodatka,18
 2025,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2025,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2025,poskodovanecStarost,KOROŠKE,otroci18do55Let,10
+2025,poskodovanecStarost,KOROŠKE,osebe18do55Let,10
 2025,poskodovanecStarost,KOROŠKE,osebe55do70Let,1
 2025,poskodovanecStarost,KOROŠKE,nad70Let,0
 2025,poskodovanecStarost,KOROŠKE,niPodatka,3
 2025,poskodovanecStarost,KRANJ,otrociPod10Let,0
 2025,poskodovanecStarost,KRANJ,otroci10do18Let,1
-2025,poskodovanecStarost,KRANJ,otroci18do55Let,7
+2025,poskodovanecStarost,KRANJ,osebe18do55Let,7
 2025,poskodovanecStarost,KRANJ,osebe55do70Let,4
 2025,poskodovanecStarost,KRANJ,nad70Let,1
 2025,poskodovanecStarost,KRANJ,niPodatka,19
 2025,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,0
 2025,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,5
-2025,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,24
+2025,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,24
 2025,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,7
 2025,poskodovanecStarost,KRANJSKA GORA,nad70Let,3
 2025,poskodovanecStarost,KRANJSKA GORA,niPodatka,5
 2025,poskodovanecStarost,LJUBLJANA,otrociPod10Let,1
 2025,poskodovanecStarost,LJUBLJANA,otroci10do18Let,2
-2025,poskodovanecStarost,LJUBLJANA,otroci18do55Let,29
+2025,poskodovanecStarost,LJUBLJANA,osebe18do55Let,29
 2025,poskodovanecStarost,LJUBLJANA,osebe55do70Let,16
 2025,poskodovanecStarost,LJUBLJANA,nad70Let,8
 2025,poskodovanecStarost,LJUBLJANA,niPodatka,13
 2025,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2025,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2025,poskodovanecStarost,MARIBOR,otroci18do55Let,3
+2025,poskodovanecStarost,MARIBOR,osebe18do55Let,3
 2025,poskodovanecStarost,MARIBOR,osebe55do70Let,1
 2025,poskodovanecStarost,MARIBOR,nad70Let,4
 2025,poskodovanecStarost,MARIBOR,niPodatka,1
 2025,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2025,poskodovanecStarost,MOJSTRANA,otroci10do18Let,2
-2025,poskodovanecStarost,MOJSTRANA,otroci18do55Let,55
+2025,poskodovanecStarost,MOJSTRANA,osebe18do55Let,55
 2025,poskodovanecStarost,MOJSTRANA,osebe55do70Let,9
 2025,poskodovanecStarost,MOJSTRANA,nad70Let,0
 2025,poskodovanecStarost,MOJSTRANA,niPodatka,31
 2025,poskodovanecStarost,RADOVLJICA,otrociPod10Let,2
 2025,poskodovanecStarost,RADOVLJICA,otroci10do18Let,6
-2025,poskodovanecStarost,RADOVLJICA,otroci18do55Let,39
+2025,poskodovanecStarost,RADOVLJICA,osebe18do55Let,39
 2025,poskodovanecStarost,RADOVLJICA,osebe55do70Let,10
 2025,poskodovanecStarost,RADOVLJICA,nad70Let,5
 2025,poskodovanecStarost,RADOVLJICA,niPodatka,2
 2025,poskodovanecStarost,RATEČE,otrociPod10Let,1
 2025,poskodovanecStarost,RATEČE,otroci10do18Let,1
-2025,poskodovanecStarost,RATEČE,otroci18do55Let,10
+2025,poskodovanecStarost,RATEČE,osebe18do55Let,10
 2025,poskodovanecStarost,RATEČE,osebe55do70Let,5
 2025,poskodovanecStarost,RATEČE,nad70Let,2
 2025,poskodovanecStarost,RATEČE,niPodatka,6
 2025,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,1
 2025,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,1
-2025,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,6
+2025,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,6
 2025,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,1
 2025,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,3
 2025,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,4
 2025,poskodovanecStarost,TOLMIN,otrociPod10Let,1
 2025,poskodovanecStarost,TOLMIN,otroci10do18Let,0
-2025,poskodovanecStarost,TOLMIN,otroci18do55Let,34
+2025,poskodovanecStarost,TOLMIN,osebe18do55Let,34
 2025,poskodovanecStarost,TOLMIN,osebe55do70Let,17
 2025,poskodovanecStarost,TOLMIN,nad70Let,4
 2025,poskodovanecStarost,TOLMIN,niPodatka,1
 2025,poskodovanecStarost,TRŽIČ,otrociPod10Let,0
 2025,poskodovanecStarost,TRŽIČ,otroci10do18Let,2
-2025,poskodovanecStarost,TRŽIČ,otroci18do55Let,5
+2025,poskodovanecStarost,TRŽIČ,osebe18do55Let,5
 2025,poskodovanecStarost,TRŽIČ,osebe55do70Let,4
 2025,poskodovanecStarost,TRŽIČ,nad70Let,5
 2025,poskodovanecStarost,TRŽIČ,niPodatka,1
@@ -14545,109 +14545,109 @@ year,section,unit,metric,value
 2026,dejavnost,TRŽIČ,drugo,0
 2026,poskodovanecStarost,AJDOVŠČINA,otrociPod10Let,0
 2026,poskodovanecStarost,AJDOVŠČINA,otroci10do18Let,1
-2026,poskodovanecStarost,AJDOVŠČINA,otroci18do55Let,11
+2026,poskodovanecStarost,AJDOVŠČINA,osebe18do55Let,11
 2026,poskodovanecStarost,AJDOVŠČINA,osebe55do70Let,2
 2026,poskodovanecStarost,AJDOVŠČINA,nad70Let,3
 2026,poskodovanecStarost,AJDOVŠČINA,niPodatka,5
 2026,poskodovanecStarost,BOHINJ,otrociPod10Let,10
 2026,poskodovanecStarost,BOHINJ,otroci10do18Let,6
-2026,poskodovanecStarost,BOHINJ,otroci18do55Let,68
+2026,poskodovanecStarost,BOHINJ,osebe18do55Let,68
 2026,poskodovanecStarost,BOHINJ,osebe55do70Let,18
 2026,poskodovanecStarost,BOHINJ,nad70Let,4
 2026,poskodovanecStarost,BOHINJ,niPodatka,26
 2026,poskodovanecStarost,BOVEC,otrociPod10Let,2
 2026,poskodovanecStarost,BOVEC,otroci10do18Let,1
-2026,poskodovanecStarost,BOVEC,otroci18do55Let,31
+2026,poskodovanecStarost,BOVEC,osebe18do55Let,31
 2026,poskodovanecStarost,BOVEC,osebe55do70Let,5
 2026,poskodovanecStarost,BOVEC,nad70Let,0
 2026,poskodovanecStarost,BOVEC,niPodatka,29
 2026,poskodovanecStarost,CELJE,otrociPod10Let,0
 2026,poskodovanecStarost,CELJE,otroci10do18Let,0
-2026,poskodovanecStarost,CELJE,otroci18do55Let,7
+2026,poskodovanecStarost,CELJE,osebe18do55Let,7
 2026,poskodovanecStarost,CELJE,osebe55do70Let,2
 2026,poskodovanecStarost,CELJE,nad70Let,1
 2026,poskodovanecStarost,CELJE,niPodatka,32
 2026,poskodovanecStarost,JESENICE,otrociPod10Let,0
 2026,poskodovanecStarost,JESENICE,otroci10do18Let,1
-2026,poskodovanecStarost,JESENICE,otroci18do55Let,7
+2026,poskodovanecStarost,JESENICE,osebe18do55Let,7
 2026,poskodovanecStarost,JESENICE,osebe55do70Let,1
 2026,poskodovanecStarost,JESENICE,nad70Let,0
 2026,poskodovanecStarost,JESENICE,niPodatka,1
 2026,poskodovanecStarost,JEZERSKO,otrociPod10Let,2
 2026,poskodovanecStarost,JEZERSKO,otroci10do18Let,0
-2026,poskodovanecStarost,JEZERSKO,otroci18do55Let,8
+2026,poskodovanecStarost,JEZERSKO,osebe18do55Let,8
 2026,poskodovanecStarost,JEZERSKO,osebe55do70Let,2
 2026,poskodovanecStarost,JEZERSKO,nad70Let,2
 2026,poskodovanecStarost,JEZERSKO,niPodatka,6
 2026,poskodovanecStarost,KAMNIK,otrociPod10Let,0
 2026,poskodovanecStarost,KAMNIK,otroci10do18Let,3
-2026,poskodovanecStarost,KAMNIK,otroci18do55Let,29
+2026,poskodovanecStarost,KAMNIK,osebe18do55Let,29
 2026,poskodovanecStarost,KAMNIK,osebe55do70Let,6
 2026,poskodovanecStarost,KAMNIK,nad70Let,3
 2026,poskodovanecStarost,KAMNIK,niPodatka,20
 2026,poskodovanecStarost,KOROŠKE,otrociPod10Let,0
 2026,poskodovanecStarost,KOROŠKE,otroci10do18Let,0
-2026,poskodovanecStarost,KOROŠKE,otroci18do55Let,10
+2026,poskodovanecStarost,KOROŠKE,osebe18do55Let,10
 2026,poskodovanecStarost,KOROŠKE,osebe55do70Let,4
 2026,poskodovanecStarost,KOROŠKE,nad70Let,2
 2026,poskodovanecStarost,KOROŠKE,niPodatka,7
 2026,poskodovanecStarost,KRANJ,otrociPod10Let,1
 2026,poskodovanecStarost,KRANJ,otroci10do18Let,2
-2026,poskodovanecStarost,KRANJ,otroci18do55Let,6
+2026,poskodovanecStarost,KRANJ,osebe18do55Let,6
 2026,poskodovanecStarost,KRANJ,osebe55do70Let,4
 2026,poskodovanecStarost,KRANJ,nad70Let,4
 2026,poskodovanecStarost,KRANJ,niPodatka,22
 2026,poskodovanecStarost,KRANJSKA GORA,otrociPod10Let,2
 2026,poskodovanecStarost,KRANJSKA GORA,otroci10do18Let,6
-2026,poskodovanecStarost,KRANJSKA GORA,otroci18do55Let,44
+2026,poskodovanecStarost,KRANJSKA GORA,osebe18do55Let,44
 2026,poskodovanecStarost,KRANJSKA GORA,osebe55do70Let,3
 2026,poskodovanecStarost,KRANJSKA GORA,nad70Let,2
 2026,poskodovanecStarost,KRANJSKA GORA,niPodatka,9
 2026,poskodovanecStarost,LJUBLJANA,otrociPod10Let,0
 2026,poskodovanecStarost,LJUBLJANA,otroci10do18Let,5
-2026,poskodovanecStarost,LJUBLJANA,otroci18do55Let,22
+2026,poskodovanecStarost,LJUBLJANA,osebe18do55Let,22
 2026,poskodovanecStarost,LJUBLJANA,osebe55do70Let,10
 2026,poskodovanecStarost,LJUBLJANA,nad70Let,8
 2026,poskodovanecStarost,LJUBLJANA,niPodatka,18
 2026,poskodovanecStarost,MARIBOR,otrociPod10Let,0
 2026,poskodovanecStarost,MARIBOR,otroci10do18Let,0
-2026,poskodovanecStarost,MARIBOR,otroci18do55Let,7
+2026,poskodovanecStarost,MARIBOR,osebe18do55Let,7
 2026,poskodovanecStarost,MARIBOR,osebe55do70Let,2
 2026,poskodovanecStarost,MARIBOR,nad70Let,1
 2026,poskodovanecStarost,MARIBOR,niPodatka,5
 2026,poskodovanecStarost,MOJSTRANA,otrociPod10Let,0
 2026,poskodovanecStarost,MOJSTRANA,otroci10do18Let,1
-2026,poskodovanecStarost,MOJSTRANA,otroci18do55Let,44
+2026,poskodovanecStarost,MOJSTRANA,osebe18do55Let,44
 2026,poskodovanecStarost,MOJSTRANA,osebe55do70Let,5
 2026,poskodovanecStarost,MOJSTRANA,nad70Let,2
 2026,poskodovanecStarost,MOJSTRANA,niPodatka,50
 2026,poskodovanecStarost,RADOVLJICA,otrociPod10Let,2
 2026,poskodovanecStarost,RADOVLJICA,otroci10do18Let,1
-2026,poskodovanecStarost,RADOVLJICA,otroci18do55Let,40
+2026,poskodovanecStarost,RADOVLJICA,osebe18do55Let,40
 2026,poskodovanecStarost,RADOVLJICA,osebe55do70Let,12
 2026,poskodovanecStarost,RADOVLJICA,nad70Let,7
 2026,poskodovanecStarost,RADOVLJICA,niPodatka,8
 2026,poskodovanecStarost,RATEČE,otrociPod10Let,0
 2026,poskodovanecStarost,RATEČE,otroci10do18Let,2
-2026,poskodovanecStarost,RATEČE,otroci18do55Let,9
+2026,poskodovanecStarost,RATEČE,osebe18do55Let,9
 2026,poskodovanecStarost,RATEČE,osebe55do70Let,2
 2026,poskodovanecStarost,RATEČE,nad70Let,2
 2026,poskodovanecStarost,RATEČE,niPodatka,5
 2026,poskodovanecStarost,ŠKOFJA LOKA,otrociPod10Let,2
 2026,poskodovanecStarost,ŠKOFJA LOKA,otroci10do18Let,4
-2026,poskodovanecStarost,ŠKOFJA LOKA,otroci18do55Let,3
+2026,poskodovanecStarost,ŠKOFJA LOKA,osebe18do55Let,3
 2026,poskodovanecStarost,ŠKOFJA LOKA,osebe55do70Let,2
 2026,poskodovanecStarost,ŠKOFJA LOKA,nad70Let,2
 2026,poskodovanecStarost,ŠKOFJA LOKA,niPodatka,6
 2026,poskodovanecStarost,TOLMIN,otrociPod10Let,3
 2026,poskodovanecStarost,TOLMIN,otroci10do18Let,3
-2026,poskodovanecStarost,TOLMIN,otroci18do55Let,43
+2026,poskodovanecStarost,TOLMIN,osebe18do55Let,43
 2026,poskodovanecStarost,TOLMIN,osebe55do70Let,21
 2026,poskodovanecStarost,TOLMIN,nad70Let,5
 2026,poskodovanecStarost,TOLMIN,niPodatka,3
 2026,poskodovanecStarost,TRŽIČ,otrociPod10Let,3
 2026,poskodovanecStarost,TRŽIČ,otroci10do18Let,0
-2026,poskodovanecStarost,TRŽIČ,otroci18do55Let,15
+2026,poskodovanecStarost,TRŽIČ,osebe18do55Let,15
 2026,poskodovanecStarost,TRŽIČ,osebe55do70Let,6
 2026,poskodovanecStarost,TRŽIČ,nad70Let,0
 2026,poskodovanecStarost,TRŽIČ,niPodatka,12
