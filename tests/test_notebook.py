@@ -1,6 +1,7 @@
 import contextlib
 import io
 import json
+import math
 import statistics
 import unittest
 from pathlib import Path
@@ -44,7 +45,7 @@ class NotebookTests(unittest.TestCase):
                     if cell["cell_type"] == "code":
                         exec(compile("".join(cell["source"]), str(NOTEBOOK), "exec"), namespace)
 
-            self.assertEqual(len(figures), 10)
+            self.assertEqual(len(figures), 11)
             groups = namespace["age_groups"]
             metrics = [metric for group in groups.values() for metric in group]
             self.assertEqual(len(metrics), len(set(metrics)))
@@ -143,6 +144,24 @@ class NotebookTests(unittest.TestCase):
                 with self.assertRaises(ValueError):
                     calculate_cagr(*args)
             self.assertLess(namespace["cagr_end_year"], namespace["latest_year"])
+            self.assertEqual(
+                namespace["cagr_years"],
+                [year for year in namespace["years"]
+                 if year < namespace["latest_year"] and year != 2007],
+            )
+            growth_line = figures[7].axes[0].lines[0]
+            for year, value in zip(growth_line.get_xdata(), growth_line.get_ydata()):
+                if year == 2007:
+                    self.assertTrue(math.isnan(value))
+                else:
+                    self.assertEqual(value, namespace["totals"][(year, "intervencije", "zakljucene")])
+            self.assertAlmostEqual(
+                namespace["intervention_cagr"],
+                calculate_cagr(
+                    namespace["cagr_counts"][0], namespace["cagr_counts"][-1],
+                    namespace["cagr_start_year"], namespace["cagr_end_year"],
+                ),
+            )
             self.assertAlmostEqual(namespace["cagr_curve"][0], namespace["cagr_counts"][0])
             self.assertAlmostEqual(namespace["cagr_curve"][-1], namespace["cagr_counts"][-1])
             report_years = namespace["report_years"]
@@ -181,7 +200,24 @@ class NotebookTests(unittest.TestCase):
                 pairs_for([2006, 2008, 2009], [1, 4, 7], [1, 5, 7], changes=True),
                 [(2009, 3, 2)],
             )
-            for ax, result in zip(figures[9].axes, namespace["correlation_results"]):
+            injury_axes = figures[9].axes
+            self.assertEqual(len(injury_axes), 2)
+            self.assertEqual(injury_axes[0].get_ylim(), injury_axes[1].get_ylim())
+            self.assertEqual(
+                namespace["injury_metrics"],
+                ("tezjePoskodovanGorska", "tezjePoskodovanDrugo"),
+            )
+            for ax, metric in zip(injury_axes, namespace["injury_metrics"]):
+                expected = [
+                    sum(row["value"] for row in namespace["rows"]
+                        if row["year"] == year and row["section"] == "poskodbaVrsta"
+                        and row["metric"] == metric)
+                    for year in namespace["years"]
+                ]
+                self.assertEqual(list(ax.lines[0].get_xdata()), namespace["years"])
+                self.assertEqual(list(ax.lines[0].get_ydata()), expected)
+                self.assertEqual(len(ax.patches), 2)
+            for ax, result in zip(figures[10].axes, namespace["correlation_results"]):
                 for key, r_key in (("pairs", "r"), ("sensitivity_pairs", "sensitivity_r")):
                     pairs = result[key]
                     self.assertAlmostEqual(

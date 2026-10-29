@@ -68,7 +68,11 @@ intervencij in bi z večjimi vrednostmi zakrilo druge kategorije.
 
 Zvezek izračuna tudi dolgoročno letno rast (CAGR) zaključenih intervencij:
 `(končna / začetna vrednost) ** (1 / število let) - 1`.
-Zadnje, lahko nepopolno leto je izključeno. Prikazana enakomerna rast
+Leto 2007 z nenavadno nizkimi vrednostmi in zadnje, lahko nepopolno leto sta
+izključena. V opazovani časovni vrsti grafa CAGR je pri letu 2007 vrzel;
+izvorni podatki ostanejo nespremenjeni. Ker CAGR uporablja le končni točki
+in dejansko število pretečenih let, izključitev vmesnega leta ne spremeni
+izračunane stopnje. Prikazana enakomerna rast
 povezuje končni točki; ni regresija, napoved ali mera tveganja.
 CAGR je občutljiv na izbiro obdobja in ne prikazuje vmesnih nihanj.
 
@@ -84,6 +88,9 @@ Polji `smrtGorska` in `smrtDrugo` ostajata ločeni; definicij ne razširjamo
 in ju brez potrditve pri viru ne seštevamo. Povzetek vsebuje vrednosti
 primerjalnega leta, absolutne spremembe glede na predhodno leto in mediane.
 Zadnje leto je izključeno iz teh primerjav in korelacij.
+Razdelek 9 vsebuje tudi letni graf težjih poškodb: `tezjePoskodovanGorska`
+in `tezjePoskodovanDrugo` sta prikazana ločeno na isti lestvici.
+Sivo označuje leto 2007, oranžno pa zadnje, lahko nepopolno leto.
 
 Raziskovalna priloga primerja vsako smrtno polje z zaključenimi
 intervencijami s Pearsonovim r, posebej za letna števila in absolutne
